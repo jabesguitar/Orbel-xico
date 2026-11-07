@@ -1,0 +1,32 @@
+name: orbelexico
+description: Orbeléxico - Aprender. Descobrir. Evoluir.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.0.2
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.2.3
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/audio/
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/icon/playstore.png
+  adaptive_icon_background: assets/icon/background.png
+  adaptive_icon_foreground: assets/icon/foreground.png
+  adaptive_icon_monochrome: assets/icon/monochrome.png
