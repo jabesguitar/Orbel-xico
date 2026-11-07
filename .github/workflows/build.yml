@@ -19,8 +19,24 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
-      - run: flutter create --platforms=android .
+      - name: Criar projeto Android
+        run: |
+          flutter create --platforms=android --project-name orbelexico .
+          rm -rf test
+      - name: Converter ícones SVG em PNG
+        run: |
+          sudo apt-get update && sudo apt-get install -y librsvg2-bin
+          mkdir -p assets/icon
+          rsvg-convert -w 432 -h 432 ic_launcher_foreground.svg -o assets/icon/foreground.png
+          rsvg-convert -w 432 -h 432 ic_launcher_background.svg -o assets/icon/background.png
+          rsvg-convert -w 432 -h 432 ic_launcher_monochrome.svg -o assets/icon/monochrome.png
+          rsvg-convert -w 1024 -h 1024 ic_launcher_playstore.svg -o assets/icon/playstore.png
       - run: flutter pub get
+      - run: dart run flutter_launcher_icons
+      - name: Nome do app e internet
+        run: |
+          sed -i 's/android:label="[^"]*"/android:label="Orbeléxico"/' android/app/src/main/AndroidManifest.xml
+          sed -i 's#<application#<uses-permission android:name="android.permission.INTERNET"/>\n    <application#' android/app/src/main/AndroidManifest.xml
       - run: flutter build apk --release
       - run: mv build/app/outputs/flutter-apk/app-release.apk Orbelexico.apk
       - uses: softprops/action-gh-release@v2
@@ -34,7 +50,7 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           channel: stable
-      - run: flutter create --platforms=windows .
+      - run: flutter create --platforms=windows --project-name orbelexico .
       - run: flutter pub get
       - run: flutter build windows --release
       - run: Compress-Archive -Path build/windows/x64/runner/Release/* -DestinationPath Orbelexico-Windows.zip
