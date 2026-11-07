@@ -1,0 +1,33 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Orbeléxico — Layout</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#050E24;--deep:#0B2A66;--electric:#1E6BFF;--gold:#D9B15A;--cream:#F3E6C4;--text:#EAF0FF;--muted:#9FB0D6;--card:linear-gradient(160deg,#0F2F6B,#081B45);--line:rgba(217,177,90,.22)}
+*{box-sizing:border-box;margin:0}body{background:#02060F;color:var(--text);font-family:Inter,system-ui,sans-serif;display:flex;gap:28px;justify-content:center;flex-wrap:wrap;padding:24px}
+.ph{width:340px;height:700px;border-radius:38px;background:radial-gradient(120% 70% at 50% 0,#0E2F70,var(--ink) 60%);border:1px solid var(--line);box-shadow:0 24px 60px #0008;padding:env(safe-area-inset-top,0) 18px 0;position:relative;overflow:hidden}
+.bar{display:flex;justify-content:space-between;font-size:12px;padding:14px 4px 10px}
+h1,h2,.serif{font-family:'Playfair Display',Georgia,serif;font-weight:600}
+.brand{display:flex;align-items:center;gap:8px;color:var(--gold);font-size:22px;letter-spacing:.04em}
+.hero{margin:14px 0;padding:16px;border-radius:20px;border:1px solid var(--line);background:linear-gradient(120deg,#0B2A66cc,#1a1405aa)}
+.hero small{color:var(--gold)}.hero h2{font-size:28px;margin:4px 0}.btn{display:inline-block;margin-top:10px;padding:9px 16px;border-radius:999px;background:var(--gold);color:#1b1405;font-weight:600;font-size:13px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.c{background:var(--card);border:1px solid #1E6BFF33;border-radius:18px;padding:14px;min-height:110px;box-shadow:0 8px 20px #0006;transition:transform .15s}.c:active{transform:scale(.97)}
+.c b{display:block;font-family:'Playfair Display',serif;margin:8px 0 4px;font-size:15px}.c span{font-size:11.5px;color:var(--muted)}
+.nav{position:absolute;left:12px;right:12px;bottom:12px;height:64px;border-radius:22px;background:#0A1E4Ae6;border:1px solid var(--line);display:flex;justify-content:space-around;align-items:center;font-size:11px;color:var(--muted)}
+.nav div{padding:8px 14px;border-radius:16px;text-align:center;min-width:56px}.nav .on{color:var(--text);background:#1E6BFF33;box-shadow:inset 0 0 0 1px #1E6BFF66}
+.word{font-size:44px;display:flex;align-items:center;gap:12px;margin-top:20px}.spk{width:40px;height:40px;border-radius:50%;background:var(--electric);display:grid;place-items:center;font-size:16px}
+.cls{font-family:'Playfair Display';font-style:italic;color:var(--gold);font-size:18px}
+.chip{display:inline-block;padding:6px 12px;margin:4px 4px 0 0;border-radius:999px;border:1px solid #1E6BFF66;background:#0B2A66;font-size:13px}
+h3{color:var(--gold);font-family:'Playfair Display';margin:18px 0 6px}li{margin:8px 0 8px 18px;font-size:14px;line-height:1.4}em{color:var(--gold);text-decoration:underline}
+.go{position:absolute;left:18px;right:18px;bottom:20px;text-align:center;padding:15px;border-radius:16px;background:linear-gradient(90deg,#1E6BFF,#0B4FC4);font-weight:600}
+</style></head><body>
+<section class="ph"><div class="bar"><span>9:41</span><span>●●● ▮</span></div>
+<div class="brand serif">◉ Orbeléxico</div>
+<h1 style="margin-top:14px;font-size:22px">Olá, Aprendiz!</h1><p style="color:var(--muted);font-size:13px">Vamos expandir seu conhecimento hoje?</p>
+<div class="hero"><small>Palavra do Dia</small><h2>Escol&#8203;ástico</h2><p style="font-size:13px;color:var(--muted)">Palavra em desuso desde os anos 80.</p><span class="btn">Veja mais →</span></div>
+<div class="grid"><div class="c">🌐<b>Conhecimento Geral</b><span>Brasil e mundo, fatos verificados</span></div><div class="c">🚩<b>Bandeiras</b><span>Imagem, história e personagens</span></div><div class="c">📖<b>Estudo Bíblico</b><span>Protestante · 66 livros</span></div><div class="c">📈<b>Seu Progresso</b><span>Revisões e sequência</span></div></div>
+<nav class="nav"><div class="on">⌂<br>Início</div><div>🎮<br>Jogos</div><div>☆<br>Favoritos</div><div>≡<br>Mais</div></nav></section>
+<section class="ph"><div class="bar"><span>9:41</span><span>●●● ▮</span></div><div style="display:flex;justify-content:space-between;font-size:15px"><span>← Vocabulário</span><span style="color:var(--gold)">☆ ⤴</span></div>
+<div class="word serif">Eminente <span class="spk">🔊</span></div><div class="cls">adjetivo</div><p style="margin-top:8px;font-size:15px">Muito importante, ilustre, de grande destaque.</p>
+<h3>Sinônimos</h3><span class="chip">ilustre</span><span class="chip">notável</span><span class="chip">proeminente</span><span class="chip">relevante</span>
+<h3>Em frases</h3><ol><li>O cientista é <em>eminente</em> em sua área.</li><li>Sua conduta sempre foi <em>eminente</em>.</li><li>Ela tem um papel <em>eminente</em> na comunidade.</li></ol><div class="go">▶ Praticar Agora</div></section>
+</body></html>
