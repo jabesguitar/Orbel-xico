@@ -22,6 +22,7 @@ flutter:
   assets:
     - assets/data/
     - assets/audio/
+    - assets/flags/
 
 flutter_launcher_icons:
   android: true
