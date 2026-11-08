@@ -1,0 +1,817 @@
+{
+ "livro": "Gênesis",
+ "perguntas": [
+  {
+   "pergunta": "Quantos dias Deus usou para criar os céus e a terra antes de descansar?",
+   "opcoes": [
+    "Cinco",
+    "Seis",
+    "Sete",
+    "Quarenta"
+   ],
+   "correta": 1,
+   "explicacao": "Deus criou em seis dias e descansou no sétimo.",
+   "fonte": "Gênesis 1:1–2:3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual foi o primeiro filho de Adão e Eva?",
+   "opcoes": [
+    "Abel",
+    "Sete",
+    "Caim",
+    "Enoque"
+   ],
+   "correta": 2,
+   "explicacao": "Caim é o primogênito; Abel nasceu depois.",
+   "fonte": "Gênesis 4:1-2",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem construiu a arca por ordem de Deus?",
+   "opcoes": [
+    "Noé",
+    "Moisés",
+    "Abraão",
+    "Jacó"
+   ],
+   "correta": 0,
+   "explicacao": "Noé construiu a arca para salvar sua família e os animais do dilúvio.",
+   "fonte": "Gênesis 6:13-22",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual foi o sinal da aliança de Deus com Noé após o dilúvio?",
+   "opcoes": [
+    "A estrela da manhã",
+    "O arco-íris",
+    "Uma pomba",
+    "O fogo do céu"
+   ],
+   "correta": 1,
+   "explicacao": "O arco-íris é o sinal da promessa de nunca mais destruir a terra por dilúvio.",
+   "fonte": "Gênesis 9:12-16",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual filho de Jacó foi vendido pelos irmãos e depois governou o Egito?",
+   "opcoes": [
+    "Judá",
+    "Benjamim",
+    "José",
+    "Rúben"
+   ],
+   "correta": 2,
+   "explicacao": "José foi vendido aos ismaelitas e tornou-se governador do Egito.",
+   "fonte": "Gênesis 37; 41:41",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual era o nome da esposa de Abraão, mãe de Isaque?",
+   "opcoes": [
+    "Rebeca",
+    "Sara",
+    "Raquel",
+    "Lia"
+   ],
+   "correta": 1,
+   "explicacao": "Sarai teve o nome mudado para Sara.",
+   "fonte": "Gênesis 17:15; 21:1-3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que novo nome Jacó recebeu após lutar em Peniel?",
+   "opcoes": [
+    "Israel",
+    "Judá",
+    "Efraim",
+    "Abrão"
+   ],
+   "correta": 0,
+   "explicacao": "“Já não te chamarás Jacó, mas Israel.”",
+   "fonte": "Gênesis 32:28",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantos filhos homens teve Jacó, origem das tribos de Israel?",
+   "opcoes": [
+    "Sete",
+    "Dez",
+    "Doze",
+    "Quatorze"
+   ],
+   "correta": 2,
+   "explicacao": "Jacó teve doze filhos homens.",
+   "fonte": "Gênesis 35:22-26",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Deus criou no primeiro dia?",
+   "opcoes": [
+    "Os animais",
+    "A luz",
+    "O firmamento",
+    "O homem"
+   ],
+   "correta": 1,
+   "explicacao": "“Haja luz”, e houve luz.",
+   "fonte": "Gênesis 1:3-5",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De que Deus formou o homem?",
+   "opcoes": [
+    "De barro cozido",
+    "Do pó da terra",
+    "De uma costela",
+    "Da água"
+   ],
+   "correta": 1,
+   "explicacao": "Deus formou o homem do pó da terra e soprou-lhe o fôlego de vida.",
+   "fonte": "Gênesis 2:7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que animal enganou Eva no jardim do Éden?",
+   "opcoes": [
+    "O leão",
+    "A serpente",
+    "O corvo",
+    "O bode"
+   ],
+   "correta": 1,
+   "explicacao": "A serpente questionou a ordem de Deus.",
+   "fonte": "Gênesis 3:1-5",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem Caim matou?",
+   "opcoes": [
+    "Sete",
+    "Enoque",
+    "Abel",
+    "Lameque"
+   ],
+   "correta": 2,
+   "explicacao": "Caim matou seu irmão Abel no campo.",
+   "fonte": "Gênesis 4:8",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem foi o homem mais longevo registrado na Bíblia?",
+   "opcoes": [
+    "Adão",
+    "Matusalém",
+    "Noé",
+    "Enoque"
+   ],
+   "correta": 1,
+   "explicacao": "Matusalém viveu 969 anos.",
+   "fonte": "Gênesis 5:27",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem achou graça aos olhos do Senhor antes do dilúvio?",
+   "opcoes": [
+    "Lameque",
+    "Sem",
+    "Noé",
+    "Enoque"
+   ],
+   "correta": 2,
+   "explicacao": "Noé achou graça diante do Senhor.",
+   "fonte": "Gênesis 6:8",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantos dias e noites choveu durante o dilúvio?",
+   "opcoes": [
+    "Sete",
+    "Quarenta",
+    "Cento e cinquenta",
+    "Trezentos"
+   ],
+   "correta": 1,
+   "explicacao": "A chuva caiu quarenta dias e quarenta noites.",
+   "fonte": "Gênesis 7:12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Em que montes a arca repousou?",
+   "opcoes": [
+    "Sinai",
+    "Moriá",
+    "Ararate",
+    "Carmelo"
+   ],
+   "correta": 2,
+   "explicacao": "A arca repousou sobre os montes de Ararate.",
+   "fonte": "Gênesis 8:4",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual destes era filho de Noé?",
+   "opcoes": [
+    "Jafé",
+    "Ló",
+    "Elias",
+    "Isaque"
+   ],
+   "correta": 0,
+   "explicacao": "Os filhos de Noé eram Sem, Cam e Jafé.",
+   "fonte": "Gênesis 9:18",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem foi descrito como poderoso caçador diante do Senhor?",
+   "opcoes": [
+    "Esaú",
+    "Ninrode",
+    "Cam",
+    "Elão"
+   ],
+   "correta": 1,
+   "explicacao": "Ninrode foi o primeiro poderoso na terra.",
+   "fonte": "Gênesis 10:8-9",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que o povo tentou construir na planície de Sinar?",
+   "opcoes": [
+    "Uma arca",
+    "Um templo",
+    "Uma cidade e uma torre",
+    "Um altar de ouro"
+   ],
+   "correta": 2,
+   "explicacao": "É a torre de Babel; Deus confundiu a língua deles.",
+   "fonte": "Gênesis 11:1-9",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que promessa Deus fez a Abrão ao chamá-lo?",
+   "opcoes": [
+    "Faria dele uma grande nação",
+    "Daria a ele o Egito",
+    "Faria dele rei de Harã",
+    "Daria-lhe ouro e prata"
+   ],
+   "correta": 0,
+   "explicacao": "Deus prometeu abençoá-lo e fazer dele uma grande nação.",
+   "fonte": "Gênesis 12:1-3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que região Ló escolheu ao se separar de Abrão?",
+   "opcoes": [
+    "O deserto de Sur",
+    "A campina do Jordão",
+    "O monte Hebrom",
+    "O Egito"
+   ],
+   "correta": 1,
+   "explicacao": "Ló escolheu a campina do Jordão, bem irrigada.",
+   "fonte": "Gênesis 13:10-11",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem abençoou Abrão e recebeu dele o dízimo?",
+   "opcoes": [
+    "Melquisedeque",
+    "Abimeleque",
+    "Eliezer",
+    "Ló"
+   ],
+   "correta": 0,
+   "explicacao": "Melquisedeque era rei de Salém e sacerdote do Deus Altíssimo.",
+   "fonte": "Gênesis 14:18-20",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Deus mostrou a Abrão para ilustrar sua descendência?",
+   "opcoes": [
+    "A areia do deserto",
+    "As estrelas do céu",
+    "As ondas do mar",
+    "As folhas das árvores"
+   ],
+   "correta": 1,
+   "explicacao": "“Conta as estrelas… assim será a tua descendência.”",
+   "fonte": "Gênesis 15:5",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem foi a mãe de Ismael?",
+   "opcoes": [
+    "Sara",
+    "Agar",
+    "Quetura",
+    "Rebeca"
+   ],
+   "correta": 1,
+   "explicacao": "Agar, serva egípcia de Sarai, deu à luz Ismael.",
+   "fonte": "Gênesis 16:15",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual foi o sinal da aliança de Deus com Abraão?",
+   "opcoes": [
+    "O arco-íris",
+    "A circuncisão",
+    "O dízimo",
+    "O sábado"
+   ],
+   "correta": 1,
+   "explicacao": "A circuncisão foi o sinal da aliança.",
+   "fonte": "Gênesis 17:10-11",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Sara riu ao ouvir a promessa de quê?",
+   "opcoes": [
+    "Que teria um filho",
+    "Que viajaria ao Egito",
+    "Que Ló seria salvo",
+    "Que ficaria rica"
+   ],
+   "correta": 0,
+   "explicacao": "Ela e Abraão já eram idosos.",
+   "fonte": "Gênesis 18:10-12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que aconteceu com a mulher de Ló ao olhar para trás?",
+   "opcoes": [
+    "Tornou-se estátua de sal",
+    "Ficou cega",
+    "Foi levada ao céu",
+    "Fugiu para Sodoma"
+   ],
+   "correta": 0,
+   "explicacao": "Ela olhou para trás e tornou-se uma estátua de sal.",
+   "fonte": "Gênesis 19:26",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que rei tomou Sara em Gerar, crendo que era irmã de Abraão?",
+   "opcoes": [
+    "Abimeleque",
+    "Faraó",
+    "Quedorlaomer",
+    "Melquisedeque"
+   ],
+   "correta": 0,
+   "explicacao": "Deus o advertiu em sonho e ele a devolveu.",
+   "fonte": "Gênesis 20:2-7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que idade tinha Abraão quando nasceu Isaque?",
+   "opcoes": [
+    "Setenta",
+    "Oitenta",
+    "Cem",
+    "Cento e vinte"
+   ],
+   "correta": 2,
+   "explicacao": "Abraão tinha cem anos.",
+   "fonte": "Gênesis 21:5",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Deus providenciou para o sacrifício no lugar de Isaque?",
+   "opcoes": [
+    "Um cordeiro de Sara",
+    "Um carneiro preso pelos chifres",
+    "Um bezerro",
+    "Uma pomba"
+   ],
+   "correta": 1,
+   "explicacao": "Abraão viu um carneiro preso num mato.",
+   "fonte": "Gênesis 22:13",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Onde Abraão sepultou Sara?",
+   "opcoes": [
+    "Em Betel",
+    "Na caverna de Macpela",
+    "Em Berseba",
+    "Em Siquém"
+   ],
+   "correta": 1,
+   "explicacao": "Abraão comprou a caverna de Macpela, em Hebrom.",
+   "fonte": "Gênesis 23:17-19",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Com quem Isaque se casou?",
+   "opcoes": [
+    "Lia",
+    "Raquel",
+    "Rebeca",
+    "Agar"
+   ],
+   "correta": 2,
+   "explicacao": "Rebeca foi buscada em Harã pelo servo de Abraão.",
+   "fonte": "Gênesis 24:67",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Por que Esaú vendeu sua primogenitura?",
+   "opcoes": [
+    "Por um prato de lentilhas",
+    "Por ouro",
+    "Por um rebanho",
+    "Por uma terra"
+   ],
+   "correta": 0,
+   "explicacao": "Ele estava faminto e trocou o direito de primogênito.",
+   "fonte": "Gênesis 25:29-34",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Em tempo de fome, o Senhor disse a Isaque que não descesse a que lugar?",
+   "opcoes": [
+    "Egito",
+    "Babilônia",
+    "Harã",
+    "Moabe"
+   ],
+   "correta": 0,
+   "explicacao": "O Senhor ordenou que ficasse na terra que lhe mostraria.",
+   "fonte": "Gênesis 26:1-2",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem ajudou Jacó a receber a bênção de Isaque?",
+   "opcoes": [
+    "Sara",
+    "Rebeca",
+    "Lia",
+    "Débora"
+   ],
+   "correta": 1,
+   "explicacao": "Rebeca preparou o plano para Jacó receber a bênção.",
+   "fonte": "Gênesis 27:5-17",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Jacó viu em sonho em Betel?",
+   "opcoes": [
+    "Uma escada que chegava ao céu",
+    "Sete vacas gordas",
+    "Um forno de fogo",
+    "Uma videira"
+   ],
+   "correta": 0,
+   "explicacao": "Os anjos subiam e desciam pela escada.",
+   "fonte": "Gênesis 28:12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Por quantos anos Jacó serviu a Labão por Raquel na primeira vez?",
+   "opcoes": [
+    "Três",
+    "Cinco",
+    "Sete",
+    "Quatorze"
+   ],
+   "correta": 2,
+   "explicacao": "Mas foi enganado e recebeu Lia primeiro.",
+   "fonte": "Gênesis 29:18-25",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual foi o primeiro filho de Raquel?",
+   "opcoes": [
+    "Benjamim",
+    "José",
+    "Dã",
+    "Naftali"
+   ],
+   "correta": 1,
+   "explicacao": "Raquel deu à luz José.",
+   "fonte": "Gênesis 30:22-24",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De quem Jacó fugiu em segredo com sua família?",
+   "opcoes": [
+    "De Esaú",
+    "De Labão",
+    "De Faraó",
+    "De Siquém"
+   ],
+   "correta": 1,
+   "explicacao": "Jacó saiu às ocultas de Labão.",
+   "fonte": "Gênesis 31:20-21",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De quem Jacó teve medo ao voltar para Canaã?",
+   "opcoes": [
+    "De Labão",
+    "De Esaú",
+    "De Faraó",
+    "De Ismael"
+   ],
+   "correta": 1,
+   "explicacao": "Esaú vinha ao encontro dele com quatrocentos homens.",
+   "fonte": "Gênesis 32:6-7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Como Esaú recebeu Jacó no reencontro?",
+   "opcoes": [
+    "Com guerra",
+    "Com indiferença",
+    "Correu, abraçou-o e beijou-o",
+    "Pediu a primogenitura de volta"
+   ],
+   "correta": 2,
+   "explicacao": "Os dois choraram.",
+   "fonte": "Gênesis 33:4",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual era o nome da filha de Jacó e Lia?",
+   "opcoes": [
+    "Diná",
+    "Tamar",
+    "Miriã",
+    "Débora"
+   ],
+   "correta": 0,
+   "explicacao": "Diná foi violentada por Siquém.",
+   "fonte": "Gênesis 30:21; 34:1-2",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual filho nasceu quando Raquel morreu?",
+   "opcoes": [
+    "José",
+    "Benjamim",
+    "Judá",
+    "Isacar"
+   ],
+   "correta": 1,
+   "explicacao": "Raquel o chamou Benoni; Jacó, Benjamim.",
+   "fonte": "Gênesis 35:16-19",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Esaú também é chamado de quê?",
+   "opcoes": [
+    "Edom",
+    "Moabe",
+    "Amon",
+    "Midiã"
+   ],
+   "correta": 0,
+   "explicacao": "Esaú é pai dos edomitas.",
+   "fonte": "Gênesis 36:1",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que presente Jacó deu a José que causou ciúmes nos irmãos?",
+   "opcoes": [
+    "Um anel",
+    "Uma túnica de várias cores",
+    "Um rebanho",
+    "Um cetro"
+   ],
+   "correta": 1,
+   "explicacao": "Jacó amava José mais que aos outros filhos.",
+   "fonte": "Gênesis 37:3-4",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem era a nora de Judá que teve os gêmeos Perez e Zerá?",
+   "opcoes": [
+    "Tamar",
+    "Raabe",
+    "Rute",
+    "Abigail"
+   ],
+   "correta": 0,
+   "explicacao": "Tamar é mencionada na genealogia de Jesus.",
+   "fonte": "Gênesis 38:27-30; Mateus 1:3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que consequência José sofreu ao fugir da mulher de Potifar?",
+   "opcoes": [
+    "Foi vendido",
+    "Foi preso",
+    "Foi morto",
+    "Foi expulso do Egito"
+   ],
+   "correta": 1,
+   "explicacao": "Ela o acusou falsamente e José foi para a prisão.",
+   "fonte": "Gênesis 39:19-20",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quais dois oficiais de Faraó José encontrou na prisão?",
+   "opcoes": [
+    "O copeiro-mor e o padeiro-mor",
+    "O guarda e o escriba",
+    "O vizir e o general",
+    "O cocheiro e o médico"
+   ],
+   "correta": 0,
+   "explicacao": "José interpretou os sonhos de ambos.",
+   "fonte": "Gênesis 40:1-22",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que significavam as sete vacas gordas e as sete magras do sonho de Faraó?",
+   "opcoes": [
+    "Sete anos de fartura e sete de fome",
+    "Sete reis",
+    "Sete guerras",
+    "Sete pragas"
+   ],
+   "correta": 0,
+   "explicacao": "José explicou o sonho a Faraó.",
+   "fonte": "Gênesis 41:25-31",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Para que os irmãos de José foram ao Egito?",
+   "opcoes": [
+    "Para servir a Faraó",
+    "Para comprar cereal",
+    "Para vender o rebanho",
+    "Para buscar José"
+   ],
+   "correta": 1,
+   "explicacao": "Havia fome em Canaã.",
+   "fonte": "Gênesis 42:1-3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que irmão se fez fiador de Benjamim diante de Jacó?",
+   "opcoes": [
+    "Rúben",
+    "Judá",
+    "Simeão",
+    "Levi"
+   ],
+   "correta": 1,
+   "explicacao": "Judá garantiu a volta de Benjamim.",
+   "fonte": "Gênesis 43:8-9",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Onde foi encontrada a taça de prata de José?",
+   "opcoes": [
+    "No saco de Benjamim",
+    "No saco de Judá",
+    "Na tenda de Jacó",
+    "Na casa de Faraó"
+   ],
+   "correta": 0,
+   "explicacao": "José havia mandado colocá-la ali para provar os irmãos.",
+   "fonte": "Gênesis 44:2, 12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "José disse que Deus o enviou antes ao Egito para quê?",
+   "opcoes": [
+    "Para vingar-se",
+    "Para preservar vidas",
+    "Para tornar-se rei",
+    "Para construir pirâmides"
+   ],
+   "correta": 1,
+   "explicacao": "“Deus me enviou adiante de vós para preservar vida.”",
+   "fonte": "Gênesis 45:5-7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantas pessoas da casa de Jacó entraram no Egito?",
+   "opcoes": [
+    "Doze",
+    "Setenta",
+    "Cento e vinte",
+    "Seiscentas"
+   ],
+   "correta": 1,
+   "explicacao": "Setenta pessoas da casa de Jacó.",
+   "fonte": "Gênesis 46:27",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Em que região do Egito Israel foi morar?",
+   "opcoes": [
+    "Gósen",
+    "Mênfis",
+    "Tebas",
+    "Alexandria"
+   ],
+   "correta": 0,
+   "explicacao": "A melhor parte da terra foi dada a Israel.",
+   "fonte": "Gênesis 47:6, 27",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quais filhos de José Jacó abençoou como seus?",
+   "opcoes": [
+    "Efraim e Manassés",
+    "Dã e Gade",
+    "Rúben e Simeão",
+    "Aser e Zebulom"
+   ],
+   "correta": 0,
+   "explicacao": "Jacó os adotou como seus filhos.",
+   "fonte": "Gênesis 48:5, 20",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De qual filho Jacó disse que viria o cetro?",
+   "opcoes": [
+    "José",
+    "Judá",
+    "Levi",
+    "Dã"
+   ],
+   "correta": 1,
+   "explicacao": "“O cetro não se arredará de Judá.”",
+   "fonte": "Gênesis 49:10",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Com quantos anos José morreu?",
+   "opcoes": [
+    "Cem",
+    "Cento e dez",
+    "Cento e vinte",
+    "Cento e quarenta"
+   ],
+   "correta": 1,
+   "explicacao": "José morreu com cento e dez anos.",
+   "fonte": "Gênesis 50:26",
+   "nivel": 2,
+   "revisar": false
+  }
+ ]
+}

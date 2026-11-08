@@ -1,0 +1,117 @@
+{
+ "livro": "Deuteronômio",
+ "perguntas": [
+  {
+   "pergunta": "Qual é a declaração conhecida como Shemá?",
+   "opcoes": [
+    "O Senhor é o meu pastor",
+    "Ouve, Israel: o Senhor nosso Deus é o único Senhor",
+    "No princípio era o Verbo",
+    "Eu sou o que sou"
+   ],
+   "correta": 1,
+   "explicacao": "É a confissão central de Israel.",
+   "fonte": "Deuteronômio 6:4",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Em que monte Moisés subiu para ver a terra prometida antes de morrer?",
+   "opcoes": [
+    "Sinai",
+    "Nebo",
+    "Carmelo",
+    "Hermom"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés subiu ao monte Nebo, ao cume de Pisga.",
+   "fonte": "Deuteronômio 34:1",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Em que consiste, em essência, o livro de Deuteronômio?",
+   "opcoes": [
+    "Em cânticos de louvor",
+    "Nos discursos de Moisés antes da entrada em Canaã",
+    "Nos relatos dos juízes",
+    "Nas profecias sobre o exílio"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés relembra a Lei ao povo à beira do Jordão.",
+   "fonte": "Deuteronômio 1:1-5",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De qual livro Jesus citou “Nem só de pão viverá o homem” ao ser tentado?",
+   "opcoes": [
+    "Salmos",
+    "Isaías",
+    "Deuteronômio",
+    "Êxodo"
+   ],
+   "correta": 2,
+   "explicacao": "Jesus respondeu ao diabo com Deuteronômio 8:3.",
+   "fonte": "Deuteronômio 8:3; Mateus 4:4",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Com quantos anos Moisés morreu?",
+   "opcoes": [
+    "80",
+    "100",
+    "120",
+    "150"
+   ],
+   "correta": 2,
+   "explicacao": "Morreu com cento e vinte anos, com a vista intacta.",
+   "fonte": "Deuteronômio 34:7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Com quê devemos amar o Senhor, segundo Deuteronômio 6:5?",
+   "opcoes": [
+    "Com todo o coração, toda a alma e todas as forças",
+    "Com ofertas e sacrifícios",
+    "Apenas com obediência",
+    "Com jejuns e vigílias"
+   ],
+   "correta": 0,
+   "explicacao": "É o grande mandamento, citado por Jesus.",
+   "fonte": "Deuteronômio 6:5; Mateus 22:37",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Moisés fez com cada tribo antes de morrer?",
+   "opcoes": [
+    "Mandou-as para o exílio",
+    "Abençoou-as",
+    "Dividiu-as em reinos",
+    "Recontou-as"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés abençoou as tribos de Israel.",
+   "fonte": "Deuteronômio 33",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Deus deixou Moisés fazer com a terra de Canaã?",
+   "opcoes": [
+    "Habitar nela",
+    "Vê-la, mas não entrar",
+    "Governá-la",
+    "Dividi-la entre as tribos"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés viu a terra, mas não entrou nela.",
+   "fonte": "Deuteronômio 34:4",
+   "nivel": 2,
+   "revisar": false
+  }
+ ]
+}

@@ -1,0 +1,722 @@
+[
+ {
+  "palavra": "ufano",
+  "classe": "adjetivo",
+  "significado": "Orgulhoso, vaidoso; satisfeito consigo mesmo.",
+  "uso": "formal",
+  "sinonimos": [
+   "orgulhoso",
+   "vaidoso",
+   "jactancioso"
+  ],
+  "frases": [
+   "Voltou ufano da viagem, cheio de histórias.",
+   "Ela ficou ufana com a aprovação do filho.",
+   "Não seja tão ufano de uma vitória tão pequena."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "pusilânime",
+  "classe": "adjetivo",
+  "significado": "Que não tem coragem; covarde, medroso.",
+  "uso": "formal",
+  "sinonimos": [
+   "covarde",
+   "medroso",
+   "tímido"
+  ],
+  "frases": [
+   "Foi pusilânime ao fugir da responsabilidade.",
+   "Ninguém quer um líder pusilânime.",
+   "Seu gesto pusilânime decepcionou os amigos."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "venal",
+  "classe": "adjetivo",
+  "significado": "Que se deixa subornar; que se vende por dinheiro.",
+  "uso": "formal",
+  "sinonimos": [
+   "corrupto",
+   "subornável",
+   "mercenário"
+  ],
+  "frases": [
+   "O juiz venal foi afastado do cargo.",
+   "Denunciou a imprensa venal da época.",
+   "Uma consciência venal não merece confiança."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "vetusto",
+  "classe": "adjetivo",
+  "significado": "Muito velho, antigo, de longa duração.",
+  "uso": "formal",
+  "sinonimos": [
+   "antigo",
+   "ancestral",
+   "arcaico"
+  ],
+  "frases": [
+   "O vetusto casarão resistia ao tempo.",
+   "Visitamos a vetusta catedral da cidade.",
+   "Era um costume vetusto, mantido por gerações."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "exímio",
+  "classe": "adjetivo",
+  "significado": "Excelente, notável na sua arte ou ofício.",
+  "uso": "formal",
+  "sinonimos": [
+   "notável",
+   "perito",
+   "excelente"
+  ],
+  "frases": [
+   "Era um exímio violonista.",
+   "Ele foi exímio na arte da conversa.",
+   "Contratou um exímio marceneiro para a obra."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "dadivoso",
+  "classe": "adjetivo",
+  "significado": "Que dá com generosidade; liberal.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "generoso",
+   "liberal",
+   "pródigo"
+  ],
+  "frases": [
+   "Era um homem dadivoso com os necessitados.",
+   "A natureza dadivosa enchia a mesa de frutas.",
+   "Tinha mãos dadivosas e coração aberto."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "desfaçatez",
+  "classe": "substantivo feminino",
+  "significado": "Falta de vergonha; descaramento, atrevimento.",
+  "uso": "formal",
+  "sinonimos": [
+   "descaramento",
+   "cinismo",
+   "atrevimento"
+  ],
+  "frases": [
+   "Mentiu com toda a desfaçatez.",
+   "Que desfaçatez aparecer aqui depois do que fez!",
+   "A desfaçatez do vendedor irritou os clientes."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "fuzuê",
+  "classe": "substantivo masculino",
+  "significado": "Confusão, tumulto, bagunça animada.",
+  "uso": "",
+  "sinonimos": [
+   "confusão",
+   "baderna",
+   "algazarra"
+  ],
+  "frases": [
+   "Armaram um fuzuê na saída do estádio.",
+   "Foi um fuzuê para arrumar a casa antes da festa.",
+   "O fuzuê no mercado durou a manhã inteira."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "mequetrefe",
+  "classe": "substantivo masculino",
+  "significado": "Pessoa sem importância, de pouca confiança.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "joão-ninguém",
+   "farsante",
+   "insignificante"
+  ],
+  "frases": [
+   "Não aceito ordens de um mequetrefe.",
+   "Chamou o rapaz de mequetrefe na frente de todos.",
+   "Ele não passava de um mequetrefe metido a importante."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "pernóstico",
+  "classe": "adjetivo",
+  "significado": "Pedante, que fala de modo afetado e presunçoso.",
+  "uso": "formal",
+  "sinonimos": [
+   "pedante",
+   "presunçoso",
+   "afetado"
+  ],
+  "frases": [
+   "Falava num tom pernóstico, cheio de citações.",
+   "O professor pernóstico irritava a turma.",
+   "Dispensou o discurso pernóstico e foi direto ao ponto."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "tertúlia",
+  "classe": "substantivo feminino",
+  "significado": "Reunião de pessoas para conversar, ler ou discutir assuntos literários.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "sarau",
+   "serão",
+   "reunião"
+  ],
+  "frases": [
+   "A tertúlia literária acontecia toda sexta-feira.",
+   "Frequentava a tertúlia da livraria no centro.",
+   "Na tertúlia, discutiram poesia até tarde."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "gabola",
+  "classe": "adjetivo/substantivo 2 gêneros",
+  "significado": "Que se gaba, que fala muito de si; fanfarrão.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "fanfarrão",
+   "convencido",
+   "presunçoso"
+  ],
+  "frases": [
+   "O gabola contava vantagens a cada encontro.",
+   "Ninguém aguentava o primo gabola.",
+   "Era gabola, mas ninguém duvidava de seu talento."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "folgazão",
+  "classe": "adjetivo",
+  "significado": "Alegre, brincalhão, que gosta de se divertir.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "brincalhão",
+   "divertido",
+   "galhofeiro"
+  ],
+  "frases": [
+   "Meu avô era um folgazão de primeira.",
+   "A turma folgazã animou a viagem de ônibus.",
+   "Tinha um jeito folgazão que cativava a todos."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "enfatuado",
+  "classe": "adjetivo",
+  "significado": "Cheio de si, vaidoso, presunçoso.",
+  "uso": "formal",
+  "sinonimos": [
+   "vaidoso",
+   "presunçoso",
+   "orgulhoso"
+  ],
+  "frases": [
+   "Voltou enfatuado da premiação.",
+   "Um homem enfatuado raramente aprende com os outros.",
+   "O rapaz enfatuado achava que sabia de tudo."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "aprazível",
+  "classe": "adjetivo de 2 gêneros",
+  "significado": "Agradável, ameno, que dá prazer.",
+  "uso": "formal",
+  "sinonimos": [
+   "agradável",
+   "ameno",
+   "prazeroso"
+  ],
+  "frases": [
+   "Fizemos um passeio aprazível pela praça.",
+   "O clima aprazível convidava à caminhada.",
+   "Era um recanto aprazível, longe do barulho."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "sinecura",
+  "classe": "substantivo feminino",
+  "significado": "Cargo ou emprego rendoso que exige pouco ou nenhum trabalho.",
+  "uso": "formal",
+  "sinonimos": [
+   "boquinha",
+   "mordomia",
+   "cargo rendoso"
+  ],
+  "frases": [
+   "Conseguiu uma sinecura na repartição.",
+   "Aquele cargo era pura sinecura.",
+   "Criticou as sinecuras mantidas à custa do povo."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "mormaço",
+  "classe": "substantivo masculino",
+  "significado": "Calor abafado e úmido, com pouco vento.",
+  "uso": "",
+  "sinonimos": [
+   "abafamento",
+   "calorão",
+   "canícula"
+  ],
+  "frases": [
+   "O mormaço da tarde deixava todos sonolentos.",
+   "Sob o mormaço, ninguém queria sair de casa.",
+   "Antes da chuva, o mormaço ficou insuportável."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "sestro",
+  "classe": "substantivo masculino",
+  "significado": "Mania, mau hábito, cacoete.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "mania",
+   "cacoete",
+   "tique"
+  ],
+  "frases": [
+   "Tinha o sestro de roer as unhas.",
+   "O sestro de interromper os outros o desagradava.",
+   "Cada um tem seus sestros, não é?"
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "pífio",
+  "classe": "adjetivo",
+  "significado": "De baixa qualidade; insignificante, ruim.",
+  "uso": "formal",
+  "sinonimos": [
+   "medíocre",
+   "ruim",
+   "insignificante"
+  ],
+  "frases": [
+   "O time fez uma campanha pífia.",
+   "Recebeu um salário pífio pelo esforço.",
+   "A desculpa pífia não convenceu ninguém."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "ledo",
+  "classe": "adjetivo",
+  "significado": "Alegre, contente, satisfeito.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "alegre",
+   "contente",
+   "feliz"
+  ],
+  "frases": [
+   "Acordou ledo, cantando pela casa.",
+   "Ledo engano, o caminho era bem mais longo.",
+   "Os ledos meninos corriam pelo quintal."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "jactância",
+  "classe": "substantivo feminino",
+  "significado": "Vaidade, presunção; ato de se vangloriar.",
+  "uso": "formal",
+  "sinonimos": [
+   "vanglória",
+   "arrogância",
+   "ostentação"
+  ],
+  "frases": [
+   "Falava com jactância de seus feitos.",
+   "A jactância do atleta desagradou ao público.",
+   "Sem jactância, recebeu o prêmio."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "aleivosia",
+  "classe": "substantivo feminino",
+  "significado": "Traição, calúnia, deslealdade.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "traição",
+   "calúnia",
+   "perfídia"
+  ],
+  "frases": [
+   "Foi vítima de uma aleivosia dos antigos aliados.",
+   "A aleivosia manchou o nome do general.",
+   "Não suportava aleivosias nem intrigas."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "tredo",
+  "classe": "adjetivo",
+  "significado": "Traiçoeiro, pérfido, desleal.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "traiçoeiro",
+   "pérfido",
+   "desleal"
+  ],
+  "frases": [
+   "O tredo sócio levou tudo e sumiu.",
+   "Um sorriso tredo escondia suas intenções.",
+   "Caiu numa cilada tredamente armada."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "esbulho",
+  "classe": "substantivo masculino",
+  "significado": "Ato de tomar a posse de algo por violência ou fraude.",
+  "uso": "formal",
+  "sinonimos": [
+   "usurpação",
+   "espoliação",
+   "roubo"
+  ],
+  "frases": [
+   "O esbulho da terra gerou um longo processo.",
+   "Denunciaram o esbulho cometido contra os posseiros.",
+   "A lei pune o esbulho possessório."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "obsequioso",
+  "classe": "adjetivo",
+  "significado": "Prestativo, solícito, atencioso.",
+  "uso": "formal",
+  "sinonimos": [
+   "prestativo",
+   "solícito",
+   "atencioso"
+  ],
+  "frases": [
+   "O garçom obsequioso atendeu a todos.",
+   "Era um vizinho obsequioso e discreto.",
+   "Recebeu-nos com um sorriso obsequioso."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "olvidar",
+  "classe": "verbo",
+  "significado": "Esquecer, deixar de lembrar.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "esquecer",
+   "relegar",
+   "omitir"
+  ],
+  "frases": [
+   "Não consegui olvidar aquele dia.",
+   "Tentou olvidar a mágoa, mas ela voltava.",
+   "Jamais olvidarei a sua bondade."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "espúrio",
+  "classe": "adjetivo",
+  "significado": "Ilegítimo, falso, de origem duvidosa.",
+  "uso": "formal",
+  "sinonimos": [
+   "ilegítimo",
+   "falso",
+   "adulterado"
+  ],
+  "frases": [
+   "Descobriram um documento espúrio no arquivo.",
+   "Rejeitou a herança de origem espúria.",
+   "Foi acusado de interesses espúrios."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "inefável",
+  "classe": "adjetivo de 2 gêneros",
+  "significado": "Que não se pode exprimir em palavras.",
+  "uso": "formal",
+  "sinonimos": [
+   "indizível",
+   "inexprimível",
+   "indescritível"
+  ],
+  "frases": [
+   "Sentiu uma alegria inefável ao vê-la.",
+   "A beleza do lugar era inefável.",
+   "Havia uma paz inefável naquele silêncio."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "azáfama",
+  "classe": "substantivo feminino",
+  "significado": "Grande pressa, agitação de trabalho.",
+  "uso": "em desuso",
+  "sinonimos": [
+   "correria",
+   "afobação",
+   "lida"
+  ],
+  "frases": [
+   "Na azáfama da mudança, perdeu as chaves.",
+   "A azáfama na cozinha começou ao amanhecer.",
+   "Vivia numa azáfama sem fim."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "lídimo",
+  "classe": "adjetivo",
+  "significado": "Legítimo, autêntico, puro.",
+  "uso": "formal",
+  "sinonimos": [
+   "legítimo",
+   "genuíno",
+   "autêntico"
+  ],
+  "frases": [
+   "Era o lídimo representante do povo.",
+   "Defendeu o lídimo direito dos moradores.",
+   "Uma lídima amizade resiste ao tempo."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "óbice",
+  "classe": "substantivo masculino",
+  "significado": "Obstáculo, impedimento, empecilho.",
+  "uso": "formal",
+  "sinonimos": [
+   "obstáculo",
+   "empecilho",
+   "entrave"
+  ],
+  "frases": [
+   "Não vejo óbice algum ao seu pedido.",
+   "A burocracia foi o maior óbice ao projeto.",
+   "Nenhum óbice o fez desistir."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "alacridade",
+  "classe": "substantivo feminino",
+  "significado": "Alegria viva, entusiasmo, ânimo.",
+  "uso": "formal",
+  "sinonimos": [
+   "entusiasmo",
+   "animação",
+   "alegria"
+  ],
+  "frases": [
+   "Aceitou o convite com alacridade.",
+   "Trabalhava com alacridade desde cedo.",
+   "A alacridade das crianças contagiou a todos."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "derradeiro",
+  "classe": "adjetivo",
+  "significado": "Último, final, que vem por fim.",
+  "uso": "formal",
+  "sinonimos": [
+   "último",
+   "final",
+   "extremo"
+  ],
+  "frases": [
+   "Esse foi seu derradeiro pedido.",
+   "Deu o derradeiro adeus da janela.",
+   "No derradeiro minuto, o time empatou."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "escarnecer",
+  "classe": "verbo",
+  "significado": "Zombar, ridicularizar, debochar.",
+  "uso": "formal",
+  "sinonimos": [
+   "zombar",
+   "troçar",
+   "ridicularizar"
+  ],
+  "frases": [
+   "Não escarneça de quem está tentando.",
+   "Os colegas escarneciam do novato.",
+   "Escarnecer da dor alheia é covardia."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "ínfimo",
+  "classe": "adjetivo",
+  "significado": "O mais baixo; extremamente pequeno.",
+  "uso": "formal",
+  "sinonimos": [
+   "mínimo",
+   "diminuto",
+   "irrisório"
+  ],
+  "frases": [
+   "Pagaram um preço ínfimo pelo terreno.",
+   "A diferença era ínfima, quase imperceptível.",
+   "Ganhava um salário ínfimo."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "perfídia",
+  "classe": "substantivo feminino",
+  "significado": "Deslealdade, traição, falsidade.",
+  "uso": "formal",
+  "sinonimos": [
+   "traição",
+   "deslealdade",
+   "falsidade"
+  ],
+  "frases": [
+   "Jamais esquecerei a perfídia daquele amigo.",
+   "A perfídia do sócio arruinou a firma.",
+   "Agiu com perfídia, fingindo apoio."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "sagaz",
+  "classe": "adjetivo de 2 gêneros",
+  "significado": "Esperto, perspicaz, que percebe com rapidez.",
+  "uso": "formal",
+  "sinonimos": [
+   "perspicaz",
+   "astuto",
+   "esperto"
+  ],
+  "frases": [
+   "O detetive sagaz resolveu o caso.",
+   "Foi uma resposta sagaz e oportuna.",
+   "Uma criança sagaz percebe tudo."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "vilipendiar",
+  "classe": "verbo",
+  "significado": "Tratar com desprezo; aviltar, humilhar.",
+  "uso": "formal",
+  "sinonimos": [
+   "aviltar",
+   "desprezar",
+   "humilhar"
+  ],
+  "frases": [
+   "Não vilipendie o trabalho alheio.",
+   "Foi vilipendiado em praça pública.",
+   "Vilipendiavam os mais pobres com palavras duras."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "trôpego",
+  "classe": "adjetivo",
+  "significado": "Que anda com dificuldade; cambaleante.",
+  "uso": "formal",
+  "sinonimos": [
+   "cambaleante",
+   "vacilante",
+   "bamboleante"
+  ],
+  "frases": [
+   "O velho trôpego subiu os degraus devagar.",
+   "Saiu trôpego, de tão cansado.",
+   "Caminhava com passos trôpegos."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ },
+ {
+  "palavra": "sisudo",
+  "classe": "adjetivo",
+  "significado": "Sério, carrancudo, circunspecto.",
+  "uso": "formal",
+  "sinonimos": [
+   "carrancudo",
+   "circunspecto",
+   "grave"
+  ],
+  "frases": [
+   "O avô sisudo raramente sorria.",
+   "Entrou sisudo na sala de reunião.",
+   "Apesar de sisudo, tinha bom humor."
+  ],
+  "fonte": "Conferir: Houaiss / Aulete / Priberam",
+  "revisar": true
+ }
+]

@@ -29,11 +29,19 @@ const lvls = [
 class Sfx {
   static final bg = AudioPlayer(), fx = AudioPlayer();
   static double vol = .5;
-  static Future<void> startMusic() async {
+  /// Uma trilha por módulo (portugues, geral, biblia, bandeiras); sem módulo, sorteia uma das clássicas.
+  static const tracks = {
+    'portugues': 'music_portugues.wav',
+    'geral': 'music_geral.wav',
+    'biblia': 'music_biblia.wav',
+    'bandeiras': 'music_bandeiras.wav',
+  };
+  static Future<void> startMusic({String? track}) async {
     try {
       await bg.setReleaseMode(ReleaseMode.loop);
       await bg.setVolume(vol);
-      await bg.play(AssetSource('audio/music${Random().nextInt(3) + 1}.wav'));
+      final f = tracks[track] ?? 'music${Random().nextInt(3) + 1}.wav';
+      await bg.play(AssetSource('audio/$f'));
     } catch (_) {}
   }
   static Future<void> stopMusic() async {
@@ -41,7 +49,7 @@ class Sfx {
   }
   static void setVol(double v) { vol = v; bg.setVolume(v); }
   static Future<void> play(String f) async {
-    try { await fx.setVolume(min(1.0, vol + .3)); await fx.play(AssetSource('audio/$f')); } catch (_) {}
+    try { await fx.setVolume(vol == 0 ? 0 : min(1.0, vol + .3)); await fx.play(AssetSource('audio/$f')); } catch (_) {}
   }
 }
 

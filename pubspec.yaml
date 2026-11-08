@@ -21,6 +21,9 @@ flutter:
   uses-material-design: true
   assets:
     - assets/data/
+    - assets/data/biblia/
+    - assets/data/geral/
+    - assets/data/vocab/
     - assets/audio/
     - assets/flags/
 

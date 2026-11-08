@@ -3,7 +3,7 @@ import 'main.dart';
 import 'game.dart';
 import 'progress.dart';
 
-const _catNomes = {'portugues': 'Português', 'bandeiras': 'Bandeiras do Mundo'};
+const _catNomes = {'portugues': 'Português', 'geral': 'Conhecimento Geral', 'biblia': 'Estudo Bíblico', 'bandeiras': 'Bandeiras do Mundo'};
 
 class NotebookPage extends StatefulWidget {
   const NotebookPage({super.key});

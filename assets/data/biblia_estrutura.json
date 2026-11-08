@@ -1,0 +1,144 @@
+{
+ "versao_schema": 1,
+ "observacao": "Apenas livros canônicos protestantes (66). Sem apócrifos. Cada pergunta traz 'fonte' (referência bíblica) e 'revisar' (true quando houver dúvida factual).",
+ "testamentos": [
+  {
+   "id": "at",
+   "nome": "Antigo Testamento",
+   "categorias": [
+    {
+     "id": "pentateuco",
+     "nome": "Pentateuco",
+     "livros": [
+      "Gênesis",
+      "Êxodo",
+      "Levítico",
+      "Números",
+      "Deuteronômio"
+     ]
+    },
+    {
+     "id": "historicos_at",
+     "nome": "Livros Históricos",
+     "livros": [
+      "Josué",
+      "Juízes",
+      "Rute",
+      "1 Samuel",
+      "2 Samuel",
+      "1 Reis",
+      "2 Reis",
+      "1 Crônicas",
+      "2 Crônicas",
+      "Esdras",
+      "Neemias",
+      "Ester"
+     ]
+    },
+    {
+     "id": "poeticos",
+     "nome": "Livros Poéticos e de Sabedoria",
+     "livros": [
+      "Jó",
+      "Salmos",
+      "Provérbios",
+      "Eclesiastes",
+      "Cântico dos Cânticos"
+     ]
+    },
+    {
+     "id": "profetas_maiores",
+     "nome": "Profetas Maiores",
+     "livros": [
+      "Isaías",
+      "Jeremias",
+      "Lamentações",
+      "Ezequiel",
+      "Daniel"
+     ]
+    },
+    {
+     "id": "profetas_menores",
+     "nome": "Profetas Menores",
+     "livros": [
+      "Oséias",
+      "Joel",
+      "Amós",
+      "Obadias",
+      "Jonas",
+      "Miquéias",
+      "Naum",
+      "Habacuque",
+      "Sofonias",
+      "Ageu",
+      "Zacarias",
+      "Malaquias"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nt",
+   "nome": "Novo Testamento",
+   "categorias": [
+    {
+     "id": "evangelhos",
+     "nome": "Evangelhos",
+     "livros": [
+      "Mateus",
+      "Marcos",
+      "Lucas",
+      "João"
+     ]
+    },
+    {
+     "id": "historico_nt",
+     "nome": "Histórico",
+     "livros": [
+      "Atos dos Apóstolos"
+     ]
+    },
+    {
+     "id": "paulinas",
+     "nome": "Epístolas Paulinas",
+     "livros": [
+      "Romanos",
+      "1 Coríntios",
+      "2 Coríntios",
+      "Gálatas",
+      "Efésios",
+      "Filipenses",
+      "Colossenses",
+      "1 Tessalonicenses",
+      "2 Tessalonicenses",
+      "1 Timóteo",
+      "2 Timóteo",
+      "Tito",
+      "Filemom"
+     ]
+    },
+    {
+     "id": "gerais",
+     "nome": "Epístolas Gerais",
+     "livros": [
+      "Hebreus",
+      "Tiago",
+      "1 Pedro",
+      "2 Pedro",
+      "1 João",
+      "2 João",
+      "3 João",
+      "Judas"
+     ]
+    },
+    {
+     "id": "profetico",
+     "nome": "Profético",
+     "livros": [
+      "Apocalipse"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,677 @@
+{
+ "livro": "Êxodo",
+ "perguntas": [
+  {
+   "pergunta": "Quem foi colocado num cesto no rio Nilo e criado pela filha de Faraó?",
+   "opcoes": [
+    "Arão",
+    "Moisés",
+    "Josué",
+    "Calebe"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés foi salvo das águas e criado na casa de Faraó.",
+   "fonte": "Êxodo 2:1-10",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De que forma Deus apareceu a Moisés no monte Horebe?",
+   "opcoes": [
+    "Numa sarça ardente",
+    "Numa nuvem de chuva",
+    "Num sonho",
+    "Num terremoto"
+   ],
+   "correta": 0,
+   "explicacao": "A sarça ardia e não se consumia.",
+   "fonte": "Êxodo 3:2-4",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantas pragas Deus enviou sobre o Egito?",
+   "opcoes": [
+    "Sete",
+    "Dez",
+    "Doze",
+    "Quarenta"
+   ],
+   "correta": 1,
+   "explicacao": "Foram dez pragas.",
+   "fonte": "Êxodo 7–12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual foi a última praga sobre o Egito?",
+   "opcoes": [
+    "Gafanhotos",
+    "Trevas",
+    "Morte dos primogênitos",
+    "Rios em sangue"
+   ],
+   "correta": 2,
+   "explicacao": "A décima praga foi a morte dos primogênitos.",
+   "fonte": "Êxodo 12:29-30",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que festa foi instituída na noite da libertação do Egito?",
+   "opcoes": [
+    "Pentecostes",
+    "Páscoa",
+    "Purim",
+    "Tabernáculos"
+   ],
+   "correta": 1,
+   "explicacao": "A Páscoa lembra a passagem do Senhor e a saída do Egito.",
+   "fonte": "Êxodo 12:11-14",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que mar se abriu para o povo passar a pé enxuto?",
+   "opcoes": [
+    "Mar Morto",
+    "Mar da Galileia",
+    "Mar Vermelho",
+    "Mar Mediterrâneo"
+   ],
+   "correta": 2,
+   "explicacao": "As águas do Mar Vermelho se dividiram.",
+   "fonte": "Êxodo 14:21-22",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Como se chamava o alimento enviado do céu no deserto?",
+   "opcoes": [
+    "Maná",
+    "Codorniz",
+    "Mel",
+    "Azeite"
+   ],
+   "correta": 0,
+   "explicacao": "O povo chamou o alimento de maná.",
+   "fonte": "Êxodo 16:14-15, 31",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Em que monte Moisés recebeu as tábuas da Lei?",
+   "opcoes": [
+    "Carmelo",
+    "Sinai",
+    "Sião",
+    "Moriá"
+   ],
+   "correta": 1,
+   "explicacao": "No monte Sinai Deus deu os Dez Mandamentos.",
+   "fonte": "Êxodo 19–20; 31:18",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Faraó ordenou fazer com os meninos hebreus recém-nascidos?",
+   "opcoes": [
+    "Educá-los no palácio",
+    "Lançá-los ao rio Nilo",
+    "Enviá-los a Canaã",
+    "Torná-los soldados"
+   ],
+   "correta": 1,
+   "explicacao": "Faraó ordenou lançar ao rio todo menino que nascesse.",
+   "fonte": "Êxodo 1:22",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Para onde Moisés fugiu depois de matar o egípcio?",
+   "opcoes": [
+    "Canaã",
+    "Midiã",
+    "Edom",
+    "Babilônia"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés fugiu para a terra de Midiã.",
+   "fonte": "Êxodo 2:15",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que nome Deus revelou a Moisés na sarça?",
+   "opcoes": [
+    "Todo-Poderoso",
+    "Eu Sou o que Sou",
+    "Senhor dos Exércitos",
+    "Emanuel"
+   ],
+   "correta": 1,
+   "explicacao": "“EU SOU O QUE SOU.”",
+   "fonte": "Êxodo 3:14",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem Deus designou como porta-voz de Moisés?",
+   "opcoes": [
+    "Josué",
+    "Arão",
+    "Calebe",
+    "Hur"
+   ],
+   "correta": 1,
+   "explicacao": "Arão falaria em nome de Moisés ao povo e a Faraó.",
+   "fonte": "Êxodo 4:14-16",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que ordem cruel Faraó deu aos israelitas após o pedido de Moisés?",
+   "opcoes": [
+    "Fazer tijolos sem receber palha",
+    "Construir pirâmides em um dia",
+    "Deixar o Egito",
+    "Pagar tributo em ouro"
+   ],
+   "correta": 0,
+   "explicacao": "Eles deviam juntar a palha e manter a mesma quantidade de tijolos.",
+   "fonte": "Êxodo 5:6-8",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Como Deus disse que se revelara a Abraão, Isaque e Jacó?",
+   "opcoes": [
+    "Como Deus Todo-Poderoso",
+    "Como o Rei de Salém",
+    "Como o Pastor de Israel",
+    "Como o Senhor dos Exércitos"
+   ],
+   "correta": 0,
+   "explicacao": "Aos patriarcas Deus se manifestou como El-Shaddai, Deus Todo-Poderoso.",
+   "fonte": "Êxodo 6:3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual foi a primeira praga sobre o Egito?",
+   "opcoes": [
+    "Rãs",
+    "Água transformada em sangue",
+    "Trevas",
+    "Gafanhotos"
+   ],
+   "correta": 1,
+   "explicacao": "As águas do Nilo se transformaram em sangue.",
+   "fonte": "Êxodo 7:19-21",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual destas foi uma das pragas do capítulo 8?",
+   "opcoes": [
+    "Rãs",
+    "Granizo",
+    "Trevas",
+    "Morte do gado"
+   ],
+   "correta": 0,
+   "explicacao": "A segunda praga foram as rãs.",
+   "fonte": "Êxodo 8:2-6",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que praga caiu do céu com trovões e fogo no capítulo 9?",
+   "opcoes": [
+    "Gafanhotos",
+    "Úlceras",
+    "Saraiva (granizo)",
+    "Piolhos"
+   ],
+   "correta": 2,
+   "explicacao": "A saraiva destruiu as plantações e o que estava no campo.",
+   "fonte": "Êxodo 9:23-25",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que praga cobriu o Egito durante três dias?",
+   "opcoes": [
+    "Trevas",
+    "Gafanhotos",
+    "Rãs",
+    "Moscas"
+   ],
+   "correta": 0,
+   "explicacao": "Havia trevas espessas no Egito, mas luz onde moravam os israelitas.",
+   "fonte": "Êxodo 10:22-23",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Deus mandou o povo pedir aos egípcios antes da saída?",
+   "opcoes": [
+    "Escravos",
+    "Objetos de prata e ouro",
+    "Camelos",
+    "Cavalos de guerra"
+   ],
+   "correta": 1,
+   "explicacao": "O Senhor deu graça ao povo aos olhos dos egípcios.",
+   "fonte": "Êxodo 11:2-3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que os israelitas puseram nos umbrais das portas na noite da Páscoa?",
+   "opcoes": [
+    "Azeite",
+    "Sangue do cordeiro",
+    "Farinha",
+    "Ramos de palmeira"
+   ],
+   "correta": 1,
+   "explicacao": "“Vendo eu o sangue, passarei por cima de vós.”",
+   "fonte": "Êxodo 12:7, 13",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Como o Senhor guiava Israel de noite?",
+   "opcoes": [
+    "Por uma estrela",
+    "Por uma coluna de fogo",
+    "Por um anjo visível",
+    "Por um arco-íris"
+   ],
+   "correta": 1,
+   "explicacao": "De dia, uma coluna de nuvem; de noite, uma coluna de fogo.",
+   "fonte": "Êxodo 13:21",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que aconteceu com o exército de Faraó no mar?",
+   "opcoes": [
+    "Fugiu",
+    "Foi destruído quando as águas voltaram",
+    "Atravessou ileso",
+    "Foi detido pela nuvem"
+   ],
+   "correta": 1,
+   "explicacao": "As águas voltaram e cobriram os carros e cavaleiros.",
+   "fonte": "Êxodo 14:26-28",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem tomou o tamborim e cantou com as mulheres após a travessia?",
+   "opcoes": [
+    "Zípora",
+    "Miriã",
+    "Débora",
+    "Rute"
+   ],
+   "correta": 1,
+   "explicacao": "Miriã, a profetisa, irmã de Arão.",
+   "fonte": "Êxodo 15:20-21",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que ave Deus enviou ao acampamento à tarde no deserto?",
+   "opcoes": [
+    "Codornizes",
+    "Pombas",
+    "Águias",
+    "Corvos"
+   ],
+   "correta": 0,
+   "explicacao": "À tarde vieram codornizes; pela manhã havia o maná.",
+   "fonte": "Êxodo 16:13",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem sustentou os braços de Moisés na batalha contra Amaleque?",
+   "opcoes": [
+    "Josué e Calebe",
+    "Arão e Hur",
+    "Nadabe e Abiú",
+    "Eldade e Medade"
+   ],
+   "correta": 1,
+   "explicacao": "Enquanto Moisés mantinha as mãos erguidas, Israel prevalecia.",
+   "fonte": "Êxodo 17:11-12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem aconselhou Moisés a nomear juízes para ajudá-lo?",
+   "opcoes": [
+    "Jetro",
+    "Arão",
+    "Josué",
+    "Hur"
+   ],
+   "correta": 0,
+   "explicacao": "Jetro, seu sogro, sugeriu dividir o trabalho.",
+   "fonte": "Êxodo 18:13-26",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Deus disse que Israel seria se guardasse a aliança?",
+   "opcoes": [
+    "Rei sobre as nações",
+    "Reino de sacerdotes e nação santa",
+    "Povo sem inimigos",
+    "Dono de todo o Egito"
+   ],
+   "correta": 1,
+   "explicacao": "“Vós me sereis reino sacerdotal e nação santa.”",
+   "fonte": "Êxodo 19:5-6",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual é o primeiro dos Dez Mandamentos?",
+   "opcoes": [
+    "Não matarás",
+    "Não terás outros deuses diante de mim",
+    "Honra teu pai e tua mãe",
+    "Não furtarás"
+   ],
+   "correta": 1,
+   "explicacao": "O primeiro mandamento trata da exclusividade do Senhor.",
+   "fonte": "Êxodo 20:3",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quanto tempo um servo hebreu podia servir antes de ser libertado?",
+   "opcoes": [
+    "Três anos",
+    "Seis anos",
+    "Dez anos",
+    "Quarenta anos"
+   ],
+   "correta": 1,
+   "explicacao": "Servia seis anos e, no sétimo, saía livre.",
+   "fonte": "Êxodo 21:2",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que ordem Deus deu sobre o estrangeiro?",
+   "opcoes": [
+    "Expulsá-lo",
+    "Não o afligir nem oprimir",
+    "Cobrar tributo dele",
+    "Isolá-lo"
+   ],
+   "correta": 1,
+   "explicacao": "“Não afligirás o estrangeiro, pois estrangeiros fostes.”",
+   "fonte": "Êxodo 22:21",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantas vezes por ano os homens deviam comparecer diante do Senhor?",
+   "opcoes": [
+    "Uma",
+    "Duas",
+    "Três",
+    "Sete"
+   ],
+   "correta": 2,
+   "explicacao": "Nas festas dos Pães Asmos, da Sega e da Colheita.",
+   "fonte": "Êxodo 23:14-17",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantos dias Moisés ficou no monte com Deus?",
+   "opcoes": [
+    "Sete",
+    "Quarenta",
+    "Cem",
+    "Oitenta"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés esteve no monte quarenta dias e quarenta noites.",
+   "fonte": "Êxodo 24:18",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De que madeira foi feita a arca da aliança?",
+   "opcoes": [
+    "Cedro",
+    "Oliveira",
+    "Acácia",
+    "Carvalho"
+   ],
+   "correta": 2,
+   "explicacao": "Madeira de acácia, revestida de ouro puro.",
+   "fonte": "Êxodo 25:10-11",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que separava o Lugar Santo do Santo dos Santos no tabernáculo?",
+   "opcoes": [
+    "Um muro",
+    "O véu",
+    "Uma cortina de linho",
+    "Uma porta de bronze"
+   ],
+   "correta": 1,
+   "explicacao": "O véu fazia a separação.",
+   "fonte": "Êxodo 26:33",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De que material era revestido o altar do holocausto?",
+   "opcoes": [
+    "Ouro",
+    "Prata",
+    "Bronze",
+    "Ferro"
+   ],
+   "correta": 2,
+   "explicacao": "O altar de madeira de acácia foi revestido de bronze.",
+   "fonte": "Êxodo 27:1-2",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantas pedras havia no peitoral do juízo do sumo sacerdote?",
+   "opcoes": [
+    "Sete",
+    "Doze",
+    "Vinte e quatro",
+    "Setenta"
+   ],
+   "correta": 1,
+   "explicacao": "Uma pedra para cada tribo de Israel.",
+   "fonte": "Êxodo 28:17-21",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Com o que Arão foi ungido na consagração?",
+   "opcoes": [
+    "Vinho",
+    "Óleo da unção",
+    "Água",
+    "Leite"
+   ],
+   "correta": 1,
+   "explicacao": "O óleo foi derramado sobre sua cabeça.",
+   "fonte": "Êxodo 29:7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual era o tributo de resgate cobrado a cada pessoa recenseada?",
+   "opcoes": [
+    "Um siclo",
+    "Meio siclo",
+    "Dez siclos",
+    "Um talento"
+   ],
+   "correta": 1,
+   "explicacao": "Meio siclo, igual para ricos e pobres.",
+   "fonte": "Êxodo 30:11-16",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem Deus encheu do Espírito para a obra do tabernáculo?",
+   "opcoes": [
+    "Bezalel",
+    "Josué",
+    "Arão",
+    "Hur"
+   ],
+   "correta": 0,
+   "explicacao": "Bezalel, com sabedoria e habilidade, ajudado por Aoliabe.",
+   "fonte": "Êxodo 31:1-6",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Arão fez com o ouro entregue pelo povo?",
+   "opcoes": [
+    "Um altar",
+    "Um bezerro de fundição",
+    "Um candelabro",
+    "Uma arca"
+   ],
+   "correta": 1,
+   "explicacao": "Foi o episódio do bezerro de ouro.",
+   "fonte": "Êxodo 32:2-4",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Como o Senhor falava com Moisés na tenda da congregação?",
+   "opcoes": [
+    "Por sonhos",
+    "Face a face, como a um amigo",
+    "Por meio de anjos",
+    "Pelo sumo sacerdote"
+   ],
+   "correta": 1,
+   "explicacao": "“Falava o Senhor com Moisés face a face.”",
+   "fonte": "Êxodo 33:11",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Por que Moisés cobria o rosto diante do povo?",
+   "opcoes": [
+    "Por vergonha",
+    "Porque a pele do rosto resplandecia",
+    "Por doença",
+    "Para esconder lágrimas"
+   ],
+   "correta": 1,
+   "explicacao": "Seu rosto brilhava por ter falado com Deus.",
+   "fonte": "Êxodo 34:29-35",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Como o povo contribuiu para a construção do tabernáculo?",
+   "opcoes": [
+    "Com ofertas voluntárias",
+    "Com um imposto obrigatório",
+    "Com herança dos levitas",
+    "Com despojos de guerra"
+   ],
+   "correta": 0,
+   "explicacao": "Trouxeram os que tinham o coração disposto.",
+   "fonte": "Êxodo 35:21-29",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Por que Moisés mandou parar de trazer ofertas?",
+   "opcoes": [
+    "Por falta de lugar",
+    "Porque o material já era mais que suficiente",
+    "Por ordem de Faraó",
+    "Por falta de artesãos"
+   ],
+   "correta": 1,
+   "explicacao": "O povo trouxe mais que o necessário.",
+   "fonte": "Êxodo 36:5-7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantas lâmpadas tinha o candelabro de ouro?",
+   "opcoes": [
+    "Três",
+    "Sete",
+    "Dez",
+    "Doze"
+   ],
+   "correta": 1,
+   "explicacao": "O candelabro tinha sete candeias.",
+   "fonte": "Êxodo 37:23",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "De que foi feita a pia de bronze?",
+   "opcoes": [
+    "De espelhos das mulheres que serviam à porta da tenda",
+    "De escudos de guerra",
+    "De moedas",
+    "De caldeirões do Egito"
+   ],
+   "correta": 0,
+   "explicacao": "As mulheres doaram seus espelhos.",
+   "fonte": "Êxodo 38:8",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que inscrição havia na lâmina de ouro da mitra do sumo sacerdote?",
+   "opcoes": [
+    "Santidade ao Senhor",
+    "Aleluia",
+    "Glória a Deus",
+    "Servo do Altíssimo"
+   ],
+   "correta": 0,
+   "explicacao": "“Santidade ao Senhor.”",
+   "fonte": "Êxodo 39:30",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que encheu o tabernáculo quando foi erguido?",
+   "opcoes": [
+    "A fumaça do incenso",
+    "A glória do Senhor",
+    "Uma multidão",
+    "O som das trombetas"
+   ],
+   "correta": 1,
+   "explicacao": "A nuvem cobriu a tenda e a glória do Senhor a encheu.",
+   "fonte": "Êxodo 40:34-35",
+   "nivel": 2,
+   "revisar": false
+  }
+ ]
+}

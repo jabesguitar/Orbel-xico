@@ -1,0 +1,117 @@
+{
+ "livro": "Números",
+ "perguntas": [
+  {
+   "pergunta": "Por que o livro de Números recebe esse nome?",
+   "opcoes": [
+    "Pelos recenseamentos do povo",
+    "Pelas leis sobre medidas",
+    "Pelos anos de peregrinação",
+    "Pelas genealogias de Adão"
+   ],
+   "correta": 0,
+   "explicacao": "Há dois censos do povo, nos capítulos 1 e 26.",
+   "fonte": "Números 1; 26",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quantos espias Moisés enviou para reconhecer Canaã?",
+   "opcoes": [
+    "Três",
+    "Sete",
+    "Doze",
+    "Setenta"
+   ],
+   "correta": 2,
+   "explicacao": "Um líder de cada tribo foi enviado.",
+   "fonte": "Números 13:1-16",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quais espias confiaram que Israel podia conquistar a terra?",
+   "opcoes": [
+    "Josué e Calebe",
+    "Arão e Hur",
+    "Eldade e Medade",
+    "Corá e Datã"
+   ],
+   "correta": 0,
+   "explicacao": "Josué e Calebe disseram que o Senhor estava com eles.",
+   "fonte": "Números 14:6-9",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quanto tempo Israel vagou no deserto por causa da incredulidade?",
+   "opcoes": [
+    "Sete anos",
+    "Quarenta anos",
+    "Setenta anos",
+    "Cem anos"
+   ],
+   "correta": 1,
+   "explicacao": "Um ano para cada dia da exploração: quarenta anos.",
+   "fonte": "Números 14:33-34",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "O que Moisés fez de errado em Meribá?",
+   "opcoes": [
+    "Fez um bezerro",
+    "Feriu a rocha em vez de falar a ela",
+    "Recusou-se a ir ao Egito",
+    "Quebrou as tábuas"
+   ],
+   "correta": 1,
+   "explicacao": "Deus mandou falar à rocha, mas ele a feriu.",
+   "fonte": "Números 20:7-12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que objeto Moisés ergueu para curar os mordidos por serpentes?",
+   "opcoes": [
+    "Um cajado de ouro",
+    "Uma serpente de bronze",
+    "Uma arca de madeira",
+    "Uma trombeta"
+   ],
+   "correta": 1,
+   "explicacao": "Quem olhava para a serpente de bronze vivia.",
+   "fonte": "Números 21:8-9",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que animal falou com o profeta Balaão?",
+   "opcoes": [
+    "Um cavalo",
+    "Um camelo",
+    "Uma jumenta",
+    "Um boi"
+   ],
+   "correta": 2,
+   "explicacao": "O Senhor abriu a boca da jumenta.",
+   "fonte": "Números 22:28",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem Deus indicou para suceder Moisés na liderança?",
+   "opcoes": [
+    "Calebe",
+    "Josué",
+    "Arão",
+    "Samuel"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés impôs as mãos sobre Josué.",
+   "fonte": "Números 27:18-23",
+   "nivel": 2,
+   "revisar": false
+  }
+ ]
+}

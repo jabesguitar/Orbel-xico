@@ -8,6 +8,11 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'game.dart';
 import 'flags_module.dart';
 import 'notebook_page.dart';
+import 'content.dart';
+import 'ladder_game.dart';
+import 'vocab_module.dart';
+import 'biblia_module.dart';
+import 'geral_module.dart';
 
 const ink = Color(0xFF050E24);
 const deep = Color(0xFF0B2A66);
@@ -83,6 +88,10 @@ class _ShellState extends State<Shell> {
   Future<void> _load() async {
     final raw = await rootBundle.loadString('assets/data/words.json');
     final list = (jsonDecode(raw) as List).map((e) => Word.fromJson(e as Map<String, dynamic>)).toList();
+    final seen = list.map((w) => w.palavra).toSet();
+    for (final m in await loadExtraWordMaps()) {
+      if (seen.add(m['palavra'] as String)) list.add(Word.fromJson(m));
+    }
     prefs = await SharedPreferences.getInstance();
     setState(() {
       words = list;
@@ -91,6 +100,7 @@ class _ShellState extends State<Shell> {
   }
 
   void toggleFav(String w) {
+    if (!favs.contains(w)) Sfx.play('fav.wav');
     setState(() => favs.contains(w) ? favs.remove(w) : favs.add(w));
     prefs?.setStringList('favs', favs.toList());
   }
@@ -111,7 +121,10 @@ class _ShellState extends State<Shell> {
       body: SafeArea(bottom: false, child: pages[tab]),
       bottomNavigationBar: NavigationBar(
         selectedIndex: tab,
-        onDestinationSelected: (i) => setState(() => tab = i),
+        onDestinationSelected: (i) {
+          Sfx.play('tap.wav');
+          setState(() => tab = i);
+        },
         destinations: const [
           NavigationDestination(icon: Icon(Icons.home_outlined), selectedIcon: Icon(Icons.home), label: 'Início'),
           NavigationDestination(icon: Icon(Icons.sports_esports_outlined), selectedIcon: Icon(Icons.sports_esports), label: 'Jogos'),
@@ -140,7 +153,10 @@ class Tile extends StatelessWidget {
           ),
           child: InkWell(
             borderRadius: BorderRadius.circular(20),
-            onTap: onTap,
+            onTap: () {
+              Sfx.play('tap.wav');
+              onTap();
+            },
             child: Padding(
               padding: const EdgeInsets.all(14),
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, mainAxisAlignment: MainAxisAlignment.center, children: [
@@ -165,7 +181,6 @@ class HomeTab extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final w = words[DateTime.now().difference(DateTime(2026, 1, 1)).inDays.abs() % words.length];
-    void soon() => ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Em breve nas próximas versões.')));
     return ListView(padding: const EdgeInsets.all(18), children: [
       Text('Orbeléxico', style: serif(26, c: gold)),
       const SizedBox(height: 14),
@@ -203,9 +218,9 @@ class HomeTab extends StatelessWidget {
         mainAxisSpacing: 12, crossAxisSpacing: 12, childAspectRatio: 1.15,
         children: [
           Tile(Icons.menu_book, 'Vocabulário', '${words.length} palavras', onList),
-          Tile(Icons.public, 'Conhecimento Geral', 'Em breve', soon),
+          Tile(Icons.public, 'Conhecimento Geral', 'Brasil e mundo', () => Navigator.push(context, MaterialPageRoute(builder: (_) => const GeralPage()))),
           Tile(Icons.flag_outlined, 'Bandeiras', '195 países', () => openFlags(context)),
-          Tile(Icons.auto_stories, 'Estudo Bíblico', 'Em breve', soon),
+          Tile(Icons.auto_stories, 'Estudo Bíblico', '66 livros', () => Navigator.push(context, MaterialPageRoute(builder: (_) => const BibliaPage()))),
         ],
       ),
     ]);
@@ -218,7 +233,12 @@ class WordList extends StatelessWidget {
   const WordList({super.key, required this.words, required this.onOpen});
   @override
   Widget build(BuildContext context) => Scaffold(
-        appBar: AppBar(title: Text('Vocabulário', style: serif(20))),
+        appBar: AppBar(title: Text('Vocabulário', style: serif(20)), actions: [
+          IconButton(
+              tooltip: 'Desafio dos 15',
+              icon: const Icon(Icons.stairs_rounded, color: gold),
+              onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (_) => LadderGame(titulo: 'Desafio do Vocabulário', categoria: 'portugues', pool: vocabQuestions(words))))),
+        ]),
         body: ListView(padding: const EdgeInsets.all(14), children: [
           for (final w in words)
             Card(
@@ -438,6 +458,6 @@ class MoreTab extends StatelessWidget {
             subtitle: const Text('Suas melhores pontuações', style: TextStyle(color: muted)),
             onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const RecordsPage()))),
         const SizedBox(height: 12),
-        const Text('Próximas versões: Conhecimentos Gerais e Estudo Bíblico. As palavras vêm do arquivo assets/data/words.json, que você pode ampliar sem mexer no código.', style: TextStyle(height: 1.4)),
+        const Text('Para ampliar o conteúdo sem mexer no código, solte novos arquivos .json em assets/data/vocab (palavras), assets/data/biblia (um por livro) e assets/data/geral (conhecimento geral).', style: TextStyle(height: 1.4)),
       ]);
 }

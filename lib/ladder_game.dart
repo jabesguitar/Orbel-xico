@@ -29,6 +29,13 @@ class _LadderGameState extends State<LadderGame> {
     super.initState();
     steps = buildLadder(widget.pool);
     used.addAll(steps.map((q) => q.id));
+    Sfx.startMusic(track: widget.categoria);
+  }
+
+  @override
+  void dispose() {
+    Sfx.stopMusic();
+    super.dispose();
   }
 
   Question get q => steps[i];
@@ -49,7 +56,7 @@ class _LadderGameState extends State<LadderGame> {
       }
     });
     if (!ok) Progress.addWrong(q);
-    Sfx.play(ok ? 'ok.wav' : 'err.wav');
+    Sfx.play(ok ? (hits % 5 == 0 ? 'streak.wav' : 'ok.wav') : 'err.wav');
   }
 
   void _next() {
@@ -61,6 +68,7 @@ class _LadderGameState extends State<LadderGame> {
       _finish('Você completou toda a escada!', score);
       return;
     }
+    Sfx.play('step.wav');
     setState(() {
       i++;
       _reset();
@@ -68,6 +76,7 @@ class _LadderGameState extends State<LadderGame> {
   }
 
   void _eliminate() {
+    Sfx.play('hint.wav');
     final wrong = [for (var k = 0; k < q.opcoes.length; k++) if (k != q.correta) k]..shuffle();
     setState(() {
       elimUsed = true;
@@ -86,6 +95,7 @@ class _LadderGameState extends State<LadderGame> {
       return;
     }
     list.shuffle();
+    Sfx.play('skip.wav');
     final n = list.first;
     setState(() {
       skipUsed = true;
@@ -115,6 +125,7 @@ class _LadderGameState extends State<LadderGame> {
     ended = true;
     final record = await Progress.saveResult(widget.categoria, finalScore, hits, steps.length);
     if (!mounted) return;
+    Sfx.play(record ? 'record.wav' : (finalScore > 0 ? 'win.wav' : 'lose.wav'));
     await showDialog(
         context: context,
         barrierDismissible: false,
@@ -151,6 +162,7 @@ class _LadderGameState extends State<LadderGame> {
         IconButton(icon: const Icon(Icons.close, color: gold), onPressed: done ? null : _stop),
         Expanded(child: Text(widget.titulo, style: fun(18, c: gold))),
         Text('$score pts', style: fun(18)),
+        IconButton(icon: const Icon(Icons.volume_up_rounded, color: gold), onPressed: () => showVol(context)),
       ]),
       ClipRRect(
           borderRadius: BorderRadius.circular(8),
@@ -217,7 +229,7 @@ class _LadderGameState extends State<LadderGame> {
           ),
       ])),
       Row(children: [
-        Expanded(child: OutlinedButton(onPressed: (done || hintUsed) ? null : () => setState(() { hintOn = true; hintUsed = true; }), child: const Text('Dica'))),
+        Expanded(child: OutlinedButton(onPressed: (done || hintUsed) ? null : () { Sfx.play('hint.wav'); setState(() { hintOn = true; hintUsed = true; }); }, child: const Text('Dica'))),
         const SizedBox(width: 6),
         Expanded(child: OutlinedButton(onPressed: (done || elimUsed) ? null : _eliminate, child: const Text('Eliminar 2'))),
         const SizedBox(width: 6),

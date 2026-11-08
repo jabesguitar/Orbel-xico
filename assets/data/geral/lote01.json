@@ -1,0 +1,919 @@
+{
+ "perguntas": [
+  {
+   "pergunta": "Qual é a capital do Brasil?",
+   "opcoes": [
+    "Rio de Janeiro",
+    "Brasília",
+    "São Paulo",
+    "Salvador"
+   ],
+   "correta": 1,
+   "explicacao": "Brasília foi inaugurada em 1960.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Em que data o Brasil declarou a independência de Portugal?",
+   "opcoes": [
+    "7 de setembro de 1822",
+    "15 de novembro de 1889",
+    "22 de abril de 1500",
+    "13 de maio de 1888"
+   ],
+   "correta": 0,
+   "explicacao": "D. Pedro I proclamou a independência às margens do Ipiranga.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Em que ano foi proclamada a República no Brasil?",
+   "opcoes": [
+    "1822",
+    "1889",
+    "1930",
+    "1964"
+   ],
+   "correta": 1,
+   "explicacao": "A República foi proclamada em 15 de novembro de 1889.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual lei aboliu a escravidão no Brasil, em 1888?",
+   "opcoes": [
+    "Lei do Ventre Livre",
+    "Lei Eusébio de Queirós",
+    "Lei Áurea",
+    "Lei dos Sexagenários"
+   ],
+   "correta": 2,
+   "explicacao": "A Lei Áurea foi assinada pela princesa Isabel em 13 de maio de 1888.",
+   "fonte": "História do Brasil",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual é o maior rio do Brasil em volume de água?",
+   "opcoes": [
+    "São Francisco",
+    "Paraná",
+    "Tocantins",
+    "Amazonas"
+   ],
+   "correta": 3,
+   "explicacao": "O Amazonas é o rio de maior volume do mundo.",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual é o maior estado brasileiro em área?",
+   "opcoes": [
+    "Pará",
+    "Amazonas",
+    "Mato Grosso",
+    "Minas Gerais"
+   ],
+   "correta": 1,
+   "explicacao": "O Amazonas ocupa cerca de 1,5 milhão de km².",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual é a capital de Alagoas?",
+   "opcoes": [
+    "Aracaju",
+    "Maceió",
+    "Recife",
+    "Natal"
+   ],
+   "correta": 1,
+   "explicacao": "Maceió é a capital de Alagoas.",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem liderou o Quilombo dos Palmares, na Serra da Barriga, hoje em Alagoas?",
+   "opcoes": [
+    "Zumbi",
+    "Tiradentes",
+    "Dandara",
+    "Antônio Conselheiro"
+   ],
+   "correta": 0,
+   "explicacao": "Zumbi liderou o maior quilombo colonial e morreu em 1695.",
+   "fonte": "História do Brasil",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quantas Copas do Mundo masculinas o Brasil conquistou?",
+   "opcoes": [
+    "Três",
+    "Quatro",
+    "Cinco",
+    "Seis"
+   ],
+   "correta": 2,
+   "explicacao": "Foram 1958, 1962, 1970, 1994 e 2002.",
+   "fonte": "Esportes",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Em que ano foi promulgada a atual Constituição brasileira?",
+   "opcoes": [
+    "1967",
+    "1946",
+    "1988",
+    "1998"
+   ],
+   "correta": 2,
+   "explicacao": "A Constituição Federal vigente é de 5 de outubro de 1988.",
+   "fonte": "Direito e história",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem escreveu o romance Dom Casmurro?",
+   "opcoes": [
+    "José de Alencar",
+    "Machado de Assis",
+    "Graciliano Ramos",
+    "Jorge Amado"
+   ],
+   "correta": 1,
+   "explicacao": "Machado de Assis publicou a obra em 1899.",
+   "fonte": "Literatura",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Que plano econômico criou o Real, em 1994?",
+   "opcoes": [
+    "Plano Cruzado",
+    "Plano Collor",
+    "Plano Real",
+    "Plano Bresser"
+   ],
+   "correta": 2,
+   "explicacao": "O Plano Real estabilizou a moeda a partir de 1994.",
+   "fonte": "Economia",
+   "nivel": 3,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+   "opcoes": [
+    "1918",
+    "1939",
+    "1945",
+    "1953"
+   ],
+   "correta": 2,
+   "explicacao": "Terminou em 1945, com a rendição da Alemanha e do Japão.",
+   "fonte": "História mundial",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Em que ano caiu o Muro de Berlim?",
+   "opcoes": [
+    "1961",
+    "1979",
+    "1989",
+    "1991"
+   ],
+   "correta": 2,
+   "explicacao": "O muro foi aberto em 9 de novembro de 1989.",
+   "fonte": "História mundial",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Em que ano começou a Revolução Francesa?",
+   "opcoes": [
+    "1689",
+    "1789",
+    "1815",
+    "1848"
+   ],
+   "correta": 1,
+   "explicacao": "Marcada pela queda da Bastilha em 14 de julho de 1789.",
+   "fonte": "História mundial",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem foi o primeiro ser humano a pisar na Lua, em 1969?",
+   "opcoes": [
+    "Buzz Aldrin",
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "John Glenn"
+   ],
+   "correta": 2,
+   "explicacao": "Neil Armstrong, da missão Apollo 11.",
+   "fonte": "Ciência e história",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é o maior oceano do planeta?",
+   "opcoes": [
+    "Atlântico",
+    "Índico",
+    "Pacífico",
+    "Ártico"
+   ],
+   "correta": 2,
+   "explicacao": "O Pacífico cobre cerca de um terço da superfície da Terra.",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é o maior país do mundo em área?",
+   "opcoes": [
+    "Canadá",
+    "China",
+    "Estados Unidos",
+    "Rússia"
+   ],
+   "correta": 3,
+   "explicacao": "A Rússia tem cerca de 17 milhões de km².",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é a capital da Austrália?",
+   "opcoes": [
+    "Sydney",
+    "Melbourne",
+    "Camberra",
+    "Perth"
+   ],
+   "correta": 2,
+   "explicacao": "Camberra é a capital, e não Sydney.",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é o maior deserto quente do mundo?",
+   "opcoes": [
+    "Gobi",
+    "Saara",
+    "Atacama",
+    "Kalahari"
+   ],
+   "correta": 1,
+   "explicacao": "O Saara cobre grande parte do norte da África.",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é o símbolo químico do ouro?",
+   "opcoes": [
+    "Ag",
+    "Au",
+    "Go",
+    "Or"
+   ],
+   "correta": 1,
+   "explicacao": "Au vem do latim aurum.",
+   "fonte": "Ciência",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual planeta é o mais próximo do Sol?",
+   "opcoes": [
+    "Vênus",
+    "Terra",
+    "Mercúrio",
+    "Marte"
+   ],
+   "correta": 2,
+   "explicacao": "Mercúrio é o primeiro planeta do Sistema Solar.",
+   "fonte": "Astronomia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem pintou a Mona Lisa?",
+   "opcoes": [
+    "Michelangelo",
+    "Rafael",
+    "Leonardo da Vinci",
+    "Botticelli"
+   ],
+   "correta": 2,
+   "explicacao": "Leonardo da Vinci pintou a obra no início do século XVI.",
+   "fonte": "Artes",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem descobriu a penicilina, em 1928?",
+   "opcoes": [
+    "Louis Pasteur",
+    "Alexander Fleming",
+    "Robert Koch",
+    "Edward Jenner"
+   ],
+   "correta": 1,
+   "explicacao": "Alexander Fleming observou o efeito do fungo Penicillium.",
+   "fonte": "Ciência",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem formulou a teoria da relatividade?",
+   "opcoes": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Galileu Galilei",
+    "Niels Bohr"
+   ],
+   "correta": 1,
+   "explicacao": "Einstein publicou a relatividade restrita em 1905 e a geral em 1915.",
+   "fonte": "Ciência",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é o maior animal do planeta?",
+   "opcoes": [
+    "Elefante africano",
+    "Tubarão-baleia",
+    "Baleia-azul",
+    "Girafa"
+   ],
+   "correta": 2,
+   "explicacao": "A baleia-azul é o maior animal conhecido.",
+   "fonte": "Biologia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem escreveu Os Lusíadas?",
+   "opcoes": [
+    "Fernando Pessoa",
+    "Luís de Camões",
+    "Eça de Queirós",
+    "Camilo Castelo Branco"
+   ],
+   "correta": 1,
+   "explicacao": "Camões publicou a epopeia em 1572.",
+   "fonte": "Literatura",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Em que cidade fica a estátua do Cristo Redentor, inaugurada em 1931?",
+   "opcoes": [
+    "São Paulo",
+    "Salvador",
+    "Rio de Janeiro",
+    "Belo Horizonte"
+   ],
+   "correta": 2,
+   "explicacao": "Está no Corcovado, no Rio de Janeiro.",
+   "fonte": "Cultura",
+   "nivel": 3,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Aproximadamente quantos países são membros da ONU?",
+   "opcoes": [
+    "Cerca de 120",
+    "Cerca de 150",
+    "193",
+    "Cerca de 250"
+   ],
+   "correta": 2,
+   "explicacao": "A ONU tem 193 Estados-membros.",
+   "fonte": "Política internacional",
+   "nivel": 2,
+   "revisar": true,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual civilização construiu as pirâmides de Gizé?",
+   "opcoes": [
+    "Romana",
+    "Egípcia",
+    "Maia",
+    "Mesopotâmica"
+   ],
+   "correta": 1,
+   "explicacao": "As pirâmides de Gizé foram construídas no Egito Antigo.",
+   "fonte": "História antiga",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem foi o primeiro presidente do Brasil?",
+   "opcoes": [
+    "Getúlio Vargas",
+    "Deodoro da Fonseca",
+    "Floriano Peixoto",
+    "Prudente de Morais"
+   ],
+   "correta": 1,
+   "explicacao": "Deodoro da Fonseca assumiu após a Proclamação da República.",
+   "fonte": "História do Brasil",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem comandava a esquadra que chegou ao Brasil em 1500?",
+   "opcoes": [
+    "Vasco da Gama",
+    "Pedro Álvares Cabral",
+    "Cristóvão Colombo",
+    "Américo Vespúcio"
+   ],
+   "correta": 1,
+   "explicacao": "Cabral chegou à costa da Bahia em abril de 1500.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual era a capital do Brasil antes de Brasília?",
+   "opcoes": [
+    "Salvador",
+    "São Paulo",
+    "Rio de Janeiro",
+    "Belo Horizonte"
+   ],
+   "correta": 2,
+   "explicacao": "O Rio de Janeiro foi capital de 1763 a 1960.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem liderou a Inconfidência Mineira e foi executado em 1792?",
+   "opcoes": [
+    "Zumbi",
+    "Tiradentes",
+    "Frei Caneca",
+    "Duque de Caxias"
+   ],
+   "correta": 1,
+   "explicacao": "Joaquim José da Silva Xavier, o Tiradentes.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual é o ponto mais alto do Brasil?",
+   "opcoes": [
+    "Pico da Bandeira",
+    "Pico da Neblina",
+    "Monte Roraima",
+    "Pico das Agulhas Negras"
+   ],
+   "correta": 1,
+   "explicacao": "O Pico da Neblina tem cerca de 2.995 metros.",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Que presidente construiu Brasília?",
+   "opcoes": [
+    "Getúlio Vargas",
+    "Juscelino Kubitschek",
+    "Eurico Dutra",
+    "Jânio Quadros"
+   ],
+   "correta": 1,
+   "explicacao": "JK inaugurou a capital em 1960.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quantas regiões tem o Brasil, segundo o IBGE?",
+   "opcoes": [
+    "Quatro",
+    "Cinco",
+    "Seis",
+    "Sete"
+   ],
+   "correta": 1,
+   "explicacao": "Norte, Nordeste, Centro-Oeste, Sudeste e Sul.",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem foi o último imperador do Brasil?",
+   "opcoes": [
+    "Dom Pedro I",
+    "Dom Pedro II",
+    "Dom João VI",
+    "Dom Miguel"
+   ],
+   "correta": 1,
+   "explicacao": "Dom Pedro II reinou de 1840 a 1889.",
+   "fonte": "História do Brasil",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem voou com o 14-Bis em Paris, em 1906?",
+   "opcoes": [
+    "Santos Dumont",
+    "Irmãos Wright",
+    "Gago Coutinho",
+    "Louis Blériot"
+   ],
+   "correta": 0,
+   "explicacao": "Alberto Santos Dumont realizou o voo em 23 de outubro de 1906.",
+   "fonte": "Ciência e história",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual é a cidade mais populosa do Brasil?",
+   "opcoes": [
+    "Rio de Janeiro",
+    "Brasília",
+    "São Paulo",
+    "Salvador"
+   ],
+   "correta": 2,
+   "explicacao": "São Paulo é a maior cidade do país.",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Em que estado ficam as Cataratas do Iguaçu (lado brasileiro)?",
+   "opcoes": [
+    "Santa Catarina",
+    "Paraná",
+    "Rio Grande do Sul",
+    "Mato Grosso do Sul"
+   ],
+   "correta": 1,
+   "explicacao": "Em Foz do Iguaçu, no Paraná.",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem escreveu Grande Sertão: Veredas?",
+   "opcoes": [
+    "Guimarães Rosa",
+    "Graciliano Ramos",
+    "Érico Veríssimo",
+    "Clarice Lispector"
+   ],
+   "correta": 0,
+   "explicacao": "Guimarães Rosa publicou o romance em 1956.",
+   "fonte": "Literatura",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Quem pintou o Abaporu?",
+   "opcoes": [
+    "Candido Portinari",
+    "Tarsila do Amaral",
+    "Di Cavalcanti",
+    "Anita Malfatti"
+   ],
+   "correta": 1,
+   "explicacao": "Tarsila do Amaral pintou o Abaporu em 1928.",
+   "fonte": "Artes",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual é o maior bioma do Brasil em extensão?",
+   "opcoes": [
+    "Cerrado",
+    "Mata Atlântica",
+    "Amazônia",
+    "Caatinga"
+   ],
+   "correta": 2,
+   "explicacao": "A Amazônia ocupa cerca de 49% do território.",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Brasil"
+  },
+  {
+   "pergunta": "Qual é o maior planeta do Sistema Solar?",
+   "opcoes": [
+    "Saturno",
+    "Júpiter",
+    "Netuno",
+    "Urano"
+   ],
+   "correta": 1,
+   "explicacao": "Júpiter é o maior planeta.",
+   "fonte": "Astronomia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quantos ossos tem o corpo humano adulto?",
+   "opcoes": [
+    "186",
+    "206",
+    "226",
+    "256"
+   ],
+   "correta": 1,
+   "explicacao": "O esqueleto adulto tem 206 ossos.",
+   "fonte": "Biologia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem escreveu Dom Quixote?",
+   "opcoes": [
+    "Miguel de Cervantes",
+    "Camões",
+    "Lope de Vega",
+    "Dante Alighieri"
+   ],
+   "correta": 0,
+   "explicacao": "Cervantes publicou a obra em 1605 e 1615.",
+   "fonte": "Literatura",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem escreveu Romeu e Julieta?",
+   "opcoes": [
+    "Charles Dickens",
+    "William Shakespeare",
+    "Oscar Wilde",
+    "Molière"
+   ],
+   "correta": 1,
+   "explicacao": "Tragédia de Shakespeare, de cerca de 1595.",
+   "fonte": "Literatura",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é o menor país do mundo em área?",
+   "opcoes": [
+    "Mônaco",
+    "Vaticano",
+    "San Marino",
+    "Liechtenstein"
+   ],
+   "correta": 1,
+   "explicacao": "A Cidade do Vaticano tem cerca de 0,44 km².",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é a capital do Japão?",
+   "opcoes": [
+    "Quioto",
+    "Osaka",
+    "Tóquio",
+    "Nagoia"
+   ],
+   "correta": 2,
+   "explicacao": "Tóquio é a capital desde 1868.",
+   "fonte": "Geografia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+   "opcoes": [
+    "Thomas Jefferson",
+    "George Washington",
+    "Abraham Lincoln",
+    "John Adams"
+   ],
+   "correta": 1,
+   "explicacao": "Washington governou de 1789 a 1797.",
+   "fonte": "História mundial",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Em que ano Colombo chegou à América?",
+   "opcoes": [
+    "1453",
+    "1492",
+    "1500",
+    "1519"
+   ],
+   "correta": 1,
+   "explicacao": "Chegou às Bahamas em outubro de 1492.",
+   "fonte": "História mundial",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual gás é essencial para a respiração humana?",
+   "opcoes": [
+    "Nitrogênio",
+    "Oxigênio",
+    "Hélio",
+    "Gás carbônico"
+   ],
+   "correta": 1,
+   "explicacao": "O oxigênio é usado nas células para obter energia.",
+   "fonte": "Ciência",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual é o maior órgão do corpo humano?",
+   "opcoes": [
+    "Fígado",
+    "Pele",
+    "Pulmão",
+    "Intestino"
+   ],
+   "correta": 1,
+   "explicacao": "A pele é o maior órgão em área e peso.",
+   "fonte": "Biologia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Em que país fica Machu Picchu?",
+   "opcoes": [
+    "Bolívia",
+    "Peru",
+    "Equador",
+    "Colômbia"
+   ],
+   "correta": 1,
+   "explicacao": "A cidadela inca fica nos Andes peruanos.",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Que rio atravessa o Cairo?",
+   "opcoes": [
+    "Tigre",
+    "Nilo",
+    "Eufrates",
+    "Jordão"
+   ],
+   "correta": 1,
+   "explicacao": "O Nilo atravessa o Cairo, capital do Egito.",
+   "fonte": "Geografia",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem liderou a independência da Índia pela não violência?",
+   "opcoes": [
+    "Nehru",
+    "Mahatma Gandhi",
+    "Buda",
+    "Indira Gandhi"
+   ],
+   "correta": 1,
+   "explicacao": "Gandhi foi o grande líder do movimento.",
+   "fonte": "História mundial",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem compôs a Nona Sinfonia, com o “Hino à Alegria”?",
+   "opcoes": [
+    "Mozart",
+    "Bach",
+    "Beethoven",
+    "Chopin"
+   ],
+   "correta": 2,
+   "explicacao": "Beethoven concluiu a obra em 1824.",
+   "fonte": "Música",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Quem formulou a teoria da evolução por seleção natural?",
+   "opcoes": [
+    "Gregor Mendel",
+    "Charles Darwin",
+    "Louis Pasteur",
+    "Carl Sagan"
+   ],
+   "correta": 1,
+   "explicacao": "Darwin publicou A Origem das Espécies em 1859.",
+   "fonte": "Ciência",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Qual planeta é conhecido como planeta vermelho?",
+   "opcoes": [
+    "Vênus",
+    "Marte",
+    "Júpiter",
+    "Mercúrio"
+   ],
+   "correta": 1,
+   "explicacao": "A cor vem do óxido de ferro na superfície.",
+   "fonte": "Astronomia",
+   "nivel": 1,
+   "revisar": false,
+   "categoria": "Mundo"
+  },
+  {
+   "pergunta": "Em que país começou a Revolução Industrial?",
+   "opcoes": [
+    "França",
+    "Alemanha",
+    "Inglaterra",
+    "Estados Unidos"
+   ],
+   "correta": 2,
+   "explicacao": "Teve início na Inglaterra, no século XVIII.",
+   "fonte": "História mundial",
+   "nivel": 2,
+   "revisar": false,
+   "categoria": "Mundo"
+  }
+ ]
+}

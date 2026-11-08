@@ -1,0 +1,117 @@
+{
+ "livro": "Levítico",
+ "perguntas": [
+  {
+   "pergunta": "De qual tribo vinham os sacerdotes e os servos do tabernáculo?",
+   "opcoes": [
+    "Judá",
+    "Levi",
+    "Benjamim",
+    "Dã"
+   ],
+   "correta": 1,
+   "explicacao": "A tribo de Levi foi separada para o serviço sagrado, e dela vem o nome do livro.",
+   "fonte": "Números 3:5-13; Levítico 8",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quem foi consagrado como o primeiro sumo sacerdote de Israel?",
+   "opcoes": [
+    "Eleazar",
+    "Arão",
+    "Fineias",
+    "Eli"
+   ],
+   "correta": 1,
+   "explicacao": "Moisés consagrou Arão e seus filhos.",
+   "fonte": "Levítico 8:1-12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Qual era o dia anual em que se fazia expiação pelos pecados do povo?",
+   "opcoes": [
+    "Dia da Expiação",
+    "Festa das Trombetas",
+    "Dia das Primícias",
+    "Festa de Purim"
+   ],
+   "correta": 0,
+   "explicacao": "Era o dia em que o sumo sacerdote entrava no Santo dos Santos.",
+   "fonte": "Levítico 16; 23:27",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Que mandamento de Levítico 19:18 Jesus citou como o segundo maior?",
+   "opcoes": [
+    "Não matarás",
+    "Honra teu pai e tua mãe",
+    "Amarás o teu próximo como a ti mesmo",
+    "Guardarás o sábado"
+   ],
+   "correta": 2,
+   "explicacao": "Jesus citou Levítico 19:18 em Mateus 22:39.",
+   "fonte": "Levítico 19:18; Mateus 22:39",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "A cada quantos anos era celebrado o ano do Jubileu?",
+   "opcoes": [
+    "Sete",
+    "Dez",
+    "Quarenta",
+    "Cinquenta"
+   ],
+   "correta": 3,
+   "explicacao": "Após sete semanas de anos, o quinquagésimo ano era o Jubileu.",
+   "fonte": "Levítico 25:8-12",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Segundo Levítico 11, qual destes animais era impuro para comer?",
+   "opcoes": [
+    "Boi",
+    "Ovelha",
+    "Porco",
+    "Cabra"
+   ],
+   "correta": 2,
+   "explicacao": "O porco não rumina e foi declarado impuro.",
+   "fonte": "Levítico 11:7",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "Quais filhos de Arão morreram por oferecer fogo estranho ao Senhor?",
+   "opcoes": [
+    "Hofni e Fineias",
+    "Nadabe e Abiú",
+    "Eleazar e Itamar",
+    "Coré e Datã"
+   ],
+   "correta": 1,
+   "explicacao": "Nadabe e Abiú foram consumidos pelo fogo do Senhor.",
+   "fonte": "Levítico 10:1-2",
+   "nivel": 2,
+   "revisar": false
+  },
+  {
+   "pergunta": "No Dia da Expiação, o que se fazia com o bode vivo sobre o qual se confessavam os pecados do povo?",
+   "opcoes": [
+    "Era sacrificado",
+    "Era enviado ao deserto",
+    "Era comido pelos sacerdotes",
+    "Era solto no templo"
+   ],
+   "correta": 1,
+   "explicacao": "O bode levava simbolicamente as culpas do povo para uma terra deserta.",
+   "fonte": "Levítico 16:21-22",
+   "nivel": 2,
+   "revisar": false
+  }
+ ]
+}
