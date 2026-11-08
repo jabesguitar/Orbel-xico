@@ -6,6 +6,8 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'game.dart';
+import 'flags_module.dart';
+import 'notebook_page.dart';
 
 const ink = Color(0xFF050E24);
 const deep = Color(0xFF0B2A66);
@@ -202,7 +204,7 @@ class HomeTab extends StatelessWidget {
         children: [
           Tile(Icons.menu_book, 'Vocabulário', '${words.length} palavras', onList),
           Tile(Icons.public, 'Conhecimento Geral', 'Em breve', soon),
-          Tile(Icons.flag_outlined, 'Bandeiras', 'Em breve', soon),
+          Tile(Icons.flag_outlined, 'Bandeiras', '195 países', () => openFlags(context)),
           Tile(Icons.auto_stories, 'Estudo Bíblico', 'Em breve', soon),
         ],
       ),
@@ -424,7 +426,18 @@ class MoreTab extends StatelessWidget {
         const SizedBox(height: 12),
         Text('Orbeléxico', style: serif(18)),
         const Text('Aprender. Descobrir. Evoluir.', style: TextStyle(color: muted)),
-        const SizedBox(height: 16),
-        const Text('Próximas versões: Conhecimento Geral, Bandeiras e Estudo Bíblico. As palavras vêm do arquivo assets/data/words.json, que você pode ampliar sem mexer no código.', style: TextStyle(height: 1.4)),
+        const SizedBox(height: 12),
+        ListTile(
+            leading: const Icon(Icons.auto_stories, color: gold),
+            title: const Text('Caderno de Aprendizagem'),
+            subtitle: const Text('Revise as perguntas que você errou', style: TextStyle(color: muted)),
+            onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const NotebookPage()))),
+        ListTile(
+            leading: const Icon(Icons.emoji_events, color: gold),
+            title: const Text('Ranking e Recordes'),
+            subtitle: const Text('Suas melhores pontuações', style: TextStyle(color: muted)),
+            onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const RecordsPage()))),
+        const SizedBox(height: 12),
+        const Text('Próximas versões: Conhecimentos Gerais e Estudo Bíblico. As palavras vêm do arquivo assets/data/words.json, que você pode ampliar sem mexer no código.', style: TextStyle(height: 1.4)),
       ]);
 }

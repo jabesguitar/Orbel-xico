@@ -5,6 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'main.dart';
+import 'ladder_game.dart';
+import 'vocab_module.dart';
 
 TextStyle fun(double s, {Color? c}) => GoogleFonts.fredoka(fontSize: s, color: c, fontWeight: FontWeight.w600);
 const green = Color(0xFF2ECC71), red = Color(0xFFE74C3C);
@@ -192,6 +194,7 @@ class _GamesHomeState extends State<GamesHome> {
           Tile(Icons.grid_view_rounded, 'Memória', 'Palavra + sinônimo', () => _go(MemoryGame(words: widget.words, lvl: l))),
           Tile(Icons.compare_arrows_rounded, 'Ligue as colunas', 'Relacione as palavras', () => _go(MatchGame(words: widget.words, lvl: l))),
           Tile(Icons.menu_book_rounded, 'Resumo', 'Para estudar e rever', () => Navigator.push(context, MaterialPageRoute(builder: (_) => StudyPage(words: widget.words)))),
+          Tile(Icons.stairs_rounded, 'Desafio dos 15', 'Escada de vocabulário', () => Navigator.push(context, MaterialPageRoute(builder: (_) => LadderGame(titulo: 'Desafio do Vocabulário', categoria: 'portugues', pool: vocabQuestions(widget.words))))),
         ],
       ),
     ]);
